@@ -4,10 +4,11 @@ http://www.edmonton.ca/transportation/traffic_reports/traffic-volumes-turning-mo
 
 ###How to Use  
 
-1. Specify the connection string to your database in the ``config.py`` file. (sqlalchemy format)
+1. Specify the connection string to your database in the ``config.py`` file. [SQLAlchemy Format](http://docs.sqlalchemy.org/en/rel_0_9/core/engines.html)
 2. Download a spreadsheet from the website on to your local computer.
 3. In the ``main.py`` file, specify the path for the spreadsheet you downloaded in the following line: ``importer.traffic_data_import(['path/to/spreadsheet.xls'])``.
 4. Run from the commandline ``python main.py``
+
 
 ###To-Do
 1. Document code.
