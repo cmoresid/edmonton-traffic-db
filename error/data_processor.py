@@ -1,0 +1,2 @@
+class NoDataTableFoundException(Exception):
+    pass
