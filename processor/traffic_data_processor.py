@@ -33,6 +33,8 @@ class TrafficDataProcessor():
         return chain.from_iterable(map(self._process_data_file, file_names))
     
     def _process_data_file(self, file_name):
+        print 'Processing %s' % (file_name,)
+
         self._current_file_name = file_name        
         
         spreadsheet_file = open_workbook(file_name)
@@ -43,9 +45,9 @@ class TrafficDataProcessor():
             location=site_data['location'], \
             address=site_data['address'], \
             adt=site_data['adt'])
-        
-        ncols = spreadsheet.ncols - 1 - 3    
+         
         start_row, start_col = self._find_data_table_start(spreadsheet)
+        ncols = self._find_data_table_width(spreadsheet, start_row)
     
         if start_row == None and start_col == None:
             raise NoDataTableFoundException('Unable to find a data table in ' + file_name)
@@ -85,6 +87,17 @@ class TrafficDataProcessor():
                 return (row_index, 1)
             
         return (None, None)
+
+    def _find_data_table_width(self, spreadsheet, data_table_row_start):
+        ncols = spreadsheet.ncols
+
+        for col_index in range(1, ncols):
+            cell_value = spreadsheet.cell(data_table_row_start, col_index).value
+
+            if cell_value.lower().find('avg') != -1:
+                return col_index
+
+        return None
         
     def _get_site_data_table(self, spreadsheet):
         site_num = spreadsheet.cell(*self.DEFAULT_SITE_NUMBER_LOCATION).value

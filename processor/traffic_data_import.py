@@ -20,7 +20,9 @@ class TrafficDataDBImport():
 
         session_import = session()
     
-        for traffic_event in traffic_events:
-            session_import.add(traffic_event)
+        print 'Importing processed data into database...'
         
+        for traffic_event in traffic_events:
+            session_import.merge(traffic_event)
+
         session_import.commit()
