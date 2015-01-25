@@ -7,6 +7,8 @@ from model.base import Base
 from model.site import Site
 from model.traffic_event import TrafficEvent
 
+import os, sqlalchemy
+
 class TrafficDataDBImport():
     def traffic_data_import(self, files):
         engine = create_engine(settings['db_connection'])
@@ -19,8 +21,18 @@ class TrafficDataDBImport():
         traffic_events = processor.process_data_files(files)
 
         session_import = session()
+        log_file = open('error_log.txt', 'w+')
     
-        for traffic_event in traffic_events:
-            session_import.add(traffic_event)
+        print 'Importing processed data into database...'
         
-        session_import.commit()
+        for traffic_event in traffic_events:
+            session_import.merge(traffic_event)
+
+            try:
+                session_import.commit()
+            except sqlalchemy.exc.IntegrityError as ex:
+                print 'EXCEPTION: %s' % (ex.message)
+                log_file.write('EXCEPTION: %s\n' % (ex.message))
+                session_import.rollback()
+
+        log_file.close()
