@@ -10,7 +10,8 @@ class GDriveDownloadResult():
 
 class GDriveDownloader():    
     def __init__(self, http_client=None, output_dir=tempfile.mkdtemp()):
-        http = http_client if http_client != None else GDriveAuth()
+        http = http_client if http_client != None \
+            else GDriveAuth().get_authenticated_http_client()
         
         self.output_dir = output_dir
         self._service = build('drive', 'v2', http=http)

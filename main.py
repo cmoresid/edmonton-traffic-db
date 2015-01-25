@@ -15,7 +15,8 @@ class CommandLineMain():
 			self.print_usage()
 			sys.exit(2)
 
-		output_dir = self.get_output_folder(opts)
+		if len(filter(lambda x: x[0].startswith('--download'), opts)) > 1:
+			output_dir = self.get_output_folder(opts)
 		
 		# Sort arguments by order of dependence, which
 		# just happens to be alphabetical.
