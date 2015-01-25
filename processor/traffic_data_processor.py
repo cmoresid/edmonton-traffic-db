@@ -1,6 +1,6 @@
 from model.site import Site
 from model.traffic_event import TrafficEvent
-from error.data_processor import NoDataTableFoundException
+from error.data_processor import NoDataTableFoundError
 from xlrd import open_workbook
 from datetime import datetime
 from itertools import chain
@@ -55,7 +55,6 @@ class TrafficDataProcessor():
         date_row = start_row + self.DATE_ROW_OFFSET
         start_time_row = start_row + self.TIME_ROW_OFFSET
         end_time_row = start_time_row + self.HOURS_IN_DAY
-    
         date_column_offset = self._get_date_column_offset(spreadsheet, start_row)
         direction_factor_count = date_column_offset-1
 
@@ -160,5 +159,5 @@ class TrafficDataProcessor():
                         'location': None
                     }
         
-        raise NoDataTableFoundException('Unable to find site table for \'%s\'' % (self._current_file_name,))
+        raise NoDataTableFoundError('Unable to find site table for \'%s\'' % (self._current_file_name,))
         

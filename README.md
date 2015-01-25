@@ -24,3 +24,6 @@ We make use of several Python modules, all of which can be installed using ``pip
 ###To-Do
 1. Document code.
 2. Create table to track imported data.
+3. Create documentation for setting up Google Drive API
+4. Add all the edmonton traffic folders to your google drive
+
