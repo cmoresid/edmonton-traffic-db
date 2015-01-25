@@ -1,31 +1,81 @@
 #!/usr/bin/env python
 
 from processor.traffic_data_import import TrafficDataDBImport
-import sys
-import getopt
+from gdrive.downloader import GDriveDownloader
+import sys, getopt, config, os
 
 class CommandLineMain():
 	def main(self, argv):
 		try:
 			opts, args = getopt.getopt(argv, '', ['download-all', \
-				'download-folder=', 'download-file', 'import-file', 'import-folder'])
+				'download-folder=', 'download-file=', 'import-file=', 'import-folder=', \
+				'output-folder='])
+			self.validate_args(opts)
 		except getopt.GetoptError:
 			self.print_usage()
 			sys.exit(2)
 
-		is_valid, message = self.validate_args(opts)
+		output_dir = self.get_output_folder(opts)
+
+		for opt, arg in opts:
+			if opt == '--download-all':
+				self.download_all(output_dir)
+			elif opt == '--download-folder':
+				self.download_folder(arg, output_dir)
+			elif opt == '--download-file':
+				self.download_file(arg, output_dir)
+			elif opt == '--import-folder':
+				self.import_folder(arg)
+			elif opt == '--import-file':
+				self.import_file(arg)
+
+	def validate_args(self, opts):
+		is_valid, message = self._validate_args(opts)
 
 		if not(is_valid):
 			print message
 			sys.exit(2)
 
-		for opt, arg in opts:
-			pass
+	def _validate_args(self, opts):
+		return (True, '')
 
-		#importer = TrafficDataDBImport()
+	def download_all(self, output_folder):
+		downloader = GDriveDownloader(output_dir=output_folder)
 
-    	#spreadsheets = [os.path.join('data', f) for f in os.listdir('data') if os.path.join('data',f).endswith('.xls')]
-    	#importer.traffic_data_import(spreadsheets)
+		results = map(downloader.download_files_in_folder, \
+			config.settings['edmonton-data-folder-ids'].values())
+
+
+	def download_folder(self, folder_id, output_folder):
+		downloader = GDriveDownloader(output_folder)
+		results = downloader.download_files_in_folder(folder_id)
+
+	def download_file(self, file_id, output_folder):
+		downloader = GDriveDownloader(output_folder)
+		results = downloader.download_file_by_id(file_id)
+
+	def import_folder(self, folder_path):
+		spreadsheets = [os.path.join('data', f) for f in os.listdir('data') \
+			if os.path.join('data',f).endswith('.xls')]
+
+		importer = TrafficDataDBImport()
+		importer.traffic_data_import(spreadsheets)
+
+	def import_file(self, file_path):
+		importer = TrafficDataDBImport()
+		importer.traffic_data_import([file_path])
+
+	def get_output_folder(self, opts):
+		output_folder = filter(lambda opt: opt[0] == '--output-folder', opts)[0][1]
+
+		if not(os.path.exists(output_folder)):
+			raise RuntimeError('The specified output folder does not exist.')
+
+		return output_folder
+
+	def validate_path(self, path, message):
+		if not(os.path.exists()):
+			raise RuntimeError(message)
 
 	def print_usage(self):
 		print 'usage: python main.py [--download-all] [--download-folder=folderId] [--download-file=fileId]'
@@ -47,7 +97,7 @@ class CommandLineMain():
 		print '\tDownload the spreadsheet file corresponding to the given fildId. The'
 		print '\tfile ID will be an alpha-numeric string of 61 characters.'
 		print ''
-		print '--output-dir=folderPath'
+		print '--output-folder=folderPath'
 		print '\tUsed in conjunction with the --download-all, --download-folder, or'
 		print '\t--download-file options to specify where the spreadsheets will be'
 		print '\tdownloaded to.'
@@ -63,4 +113,3 @@ class CommandLineMain():
 if __name__ == "__main__":
 	driver = CommandLineMain()
 	driver.main(sys.argv[1:])
-

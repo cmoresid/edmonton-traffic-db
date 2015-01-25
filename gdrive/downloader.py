@@ -1,7 +1,6 @@
 from gdrive.auth import GDriveAuth 
 from apiclient.discovery import build
-import tempfile
-import os
+import tempfile, os
 
 class GDriveDownloadResult():
     def __init__(self, file_id, success, result):
@@ -11,7 +10,7 @@ class GDriveDownloadResult():
 
 class GDriveDownloader():    
     def __init__(self, http_client=None, output_dir=tempfile.mkdtemp()):
-        http = http_client if http_client != None else GDriveAuth()    
+        http = http_client if http_client != None else GDriveAuth()
         
         self.output_dir = output_dir
         self._service = build('drive', 'v2', http=http)
