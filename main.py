@@ -16,6 +16,10 @@ class CommandLineMain():
 			sys.exit(2)
 
 		output_dir = self.get_output_folder(opts)
+		
+		# Sort arguments by order of dependence, which
+		# just happens to be alphabetical.
+		opts = sorted(opts, key=lambda k: k[0])
 
 		for opt, arg in opts:
 			if opt == '--download-all':
@@ -30,13 +34,6 @@ class CommandLineMain():
 				self.import_file(arg)
 
 	def validate_args(self, opts):
-		is_valid, message = self._validate_args(opts)
-
-		if not(is_valid):
-			print message
-			sys.exit(2)
-
-	def _validate_args(self, opts):
 		options = map(lambda item: item[0], opts)
 
 		if len(filter(lambda x: x.startswith('--download'), options)) > 1:
@@ -61,11 +58,11 @@ class CommandLineMain():
 
 
 	def download_folder(self, folder_id, output_folder):
-		downloader = GDriveDownloader(output_folder)
+		downloader = GDriveDownloader(output_dir=output_folder)
 		results = downloader.download_files_in_folder(folder_id)
 
 	def download_file(self, file_id, output_folder):
-		downloader = GDriveDownloader(output_folder)
+		downloader = GDriveDownloader(output_dir=output_folder)
 		results = downloader.download_file_by_id(file_id)
 
 	def import_folder(self, folder_path):
