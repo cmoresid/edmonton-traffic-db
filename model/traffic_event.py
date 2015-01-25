@@ -4,6 +4,7 @@ from base import Base
 from site import Site
 
 class TrafficEvent(Base):
+	"""Represents a traffic monitoring event."""
     __tablename__ = 'traffic_event'
     
     site_id = Column(String, ForeignKey('site.site_id'), primary_key=True)

@@ -3,6 +3,9 @@ from geoalchemy2 import Geometry
 from base import Base
 
 class Site(Base):
+	"""Represents a traffic monitoring site; which usually
+	an intersection.
+	"""
     __tablename__ = 'site'
     
     site_id = Column(String, primary_key=True)

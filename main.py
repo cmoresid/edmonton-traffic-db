@@ -9,7 +9,7 @@ class CommandLineMain():
 		try:
 			opts, args = getopt.getopt(argv, '', ['download-all', \
 				'download-folder=', 'download-file=', 'import-file=', 'import-folder=', \
-				'output-folder='])
+				'output-folder=', 'client-id', 'client-secret'])
 			self.validate_args(opts)
 		except getopt.GetoptError:
 			self.print_usage()

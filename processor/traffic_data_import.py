@@ -10,7 +10,11 @@ from model.traffic_event import TrafficEvent
 import os, sqlalchemy
 
 class TrafficDataDBImport():
+    """
+    """
     def traffic_data_import(self, files):
+        """
+        """
         engine = create_engine(settings['db_connection'])
 
         session = sessionmaker()
