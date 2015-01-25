@@ -37,7 +37,21 @@ class CommandLineMain():
 			sys.exit(2)
 
 	def _validate_args(self, opts):
-		return (True, '')
+		options = map(lambda item: item[0], opts)
+
+		if len(filter(lambda x: x.startswith('--download'), options)) > 1:
+			raise RuntimeError('You can only specify one download-type argument.')
+		elif len(filter(lambda x: x.startswith('--import'), options)) > 1:
+			raise RuntimeError('You can only specify one import-type argument.')
+		elif '--download-all' in options and not('--output-folder' in options):
+			raise RuntimeError('You must specify an output folder.')
+		elif '--download-folder' in options and not('--output-folder' in options):
+			raise RuntimeError('You must specify an output folder.')
+		elif '--download-file' in options and not('--output-folder' in options):
+			raise RuntimeError ('You must specify an output folder.')
+		elif '--import-file' in options or '--import-folder' in options:
+			self.validate_path(filter(lambda x: x[0].startswith('--import'), opts)[0][1], \
+				"The import path does not exist.")
 
 	def download_all(self, output_folder):
 		downloader = GDriveDownloader(output_dir=output_folder)
@@ -74,7 +88,7 @@ class CommandLineMain():
 		return output_folder
 
 	def validate_path(self, path, message):
-		if not(os.path.exists()):
+		if not(os.path.exists(path)):
 			raise RuntimeError(message)
 
 	def print_usage(self):
