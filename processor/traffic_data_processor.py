@@ -24,6 +24,8 @@ class TrafficDataProcessor():
     DIRECTION_COLUMN_COUNT = 2
     
     def __init__(self):
+        """
+        """
         self._current_file_name = ''
     
     def process_data_files(self, file_names):

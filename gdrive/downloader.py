@@ -52,62 +52,50 @@ class GDriveDownloader():
         Borrowed from: https://developers.google.com/drive/v2/reference/files/get
 
         Keyword arguments:
-        drive_file --   
+        drive_file --  A DTO object created by the Google Drive API that represents
+                       a file on Google Drive to be downloaded.
         """       
         file_destination = os.path.join(self.output_dir, drive_file.get('originalFilename'))
         file_id = drive_file.get('id')
         
+        # Don't download a file that already exists on the file system.
         if os.path.exists(file_destination):
             return GDriveDownloadResult(file_id, False, "%s already exists." % (file_destination,))
         
         download_url = drive_file.get('downloadUrl')
         if download_url:
             resp, content = self._service._http.request(download_url)
-            
-            if resp.status == 200:                
+
+            if resp.status == 200:
+                # Successfully retrieved file from Google Drive, now save it
+                # to file system and return results.
                 with open(file_destination, 'w+') as output_file:
                     output_file.write(content)
                     
                 return GDriveDownloadResult(file_id, True, file_destination)
             else:
-                return GDriveDownloadResult(file_id, False, 'No download url.')
+                # Unable to download file, return the status code of the request.
+                return GDriveDownloadResult(file_id, False, 'Unable to download file: %d', resp.status)
         else:
             # The file doesn't have any content stored on Drive.
             return GDriveDownloadResult(file_id, False, 'No content stored on Drive.')
             
     def download_file_by_id(self, file_id):
-        """
-        """
+        """Downloads the file associated with the file ID argument."""
+        # Retrieve the file meta data from Google Drive.
         drive_file = self._service.files().get(fileId=file_id).execute()
         
+        # Now actually download the file from Google Drive.
         return self.download_file(drive_file)
             
     def download_files_in_folder(self, folder_id):
-        """
-        """
+        """Downloads all the files inside the folder associated with the folder ID."""
+        # Get a list of all the files' metadata stored in the specified
+        # Google Drive folder ID.
         drive_folder = self._service.files().list(q="'%s' in parents" % (folder_id,), 
                                                 fields='items(id,downloadUrl,originalFilename),nextPageToken').execute()
+        # Only field we care about is the items field.
         files = drive_folder.get('items', [])
         
+        # Download each file located inside the folder. 
         return map(self.download_file, files)
-        
-    def display_results(self, download_results):
-        """
-        """
-
-        downloaded = filter(lambda result: result.success, download_results)
-        not_downloaded = filter(lambda result: not(result.success), download_results)
-        
-        print '----------------------------------------------------'
-        print 'Successfully Downloaded'
-        print '----------------------------------------------------'
-        
-        for gresult in downloaded:
-            print '%s - Downloaded to %s' % (gresult.file_id,gresult.result)
-            
-        print '----------------------------------------------------'
-        print 'Not Downloaded'
-        print '----------------------------------------------------'
-        
-        for gresult in not_downloaded:
-            print '%s - Not downloaded because "%s"' % (gresult.file_id, gresult.result)
