@@ -49,6 +49,9 @@ Repeat this with all the folders.
 1. Download some or all of the Traffic Volume Spreadsheets either automatically or manually from the City of Edmonton's website and place them into a directory. (The 'data' folder for example that is located in the source.)
 2. In a bash shell, type ``python main.py --import-file=data``.
 
+####Caveats
+There are some spreadsheets that will cause problems with the importing process. Some of the spreadsheets have date cells that are mislabeled, which will clash with traffic events in other spreadsheets. These cases will be logged in a file named
+error_log.txt. You will have to perform manual intervention in order to remedy the problem.
+
 ###To-Do
 1. Match site locations with co-ordinates.
-
