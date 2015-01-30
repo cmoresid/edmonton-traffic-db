@@ -39,7 +39,7 @@ def match():
 	Base.metadata.create_all(engine)
 	qsession = session()
 
-	regex = re.compile(r'(?P<addr>\d{1,3} (?:street|avenue)(?: nw| sw)?)')
+	regex = re.compile(r'(?P<addr>\d{1,3}[a-z]? (?:street|avenue)(?: nw| sw)?)')
 
 	for point in points:
 		address =  point.find('name').text.strip()
@@ -97,9 +97,10 @@ def sanatize_db_entry(entry, regex):
 	tokens = []
 	for match in matches:
 		tokens.append(match.group())
-		entry = filter(lambda x: x != '', entry.rsplit(entry[match.start():match.end()]))[0]
+		entry = entry.replace(match.group(), '')
 
-	tokens.append(entry.strip())
+	if len(entry.strip()) > 0:
+		tokens.append(entry.strip())
 
 	if len(tokens) == 1 and tokens[0] == entry:
 		tokens = entry.split(' ')
