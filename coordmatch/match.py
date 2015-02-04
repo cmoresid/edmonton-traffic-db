@@ -9,78 +9,7 @@ from fuzzywuzzy import fuzz
 
 import re
 
-def get_all_site_ids():
-	tree = ET.parse('coordmatch/traffic_sites.xml')
-	site_ids = map(lambda val: val.text, tree.getroot().findall('./Document/Placemark/ExtendedData/Data[@name="Site Number"]/value'))
-
-	return site_ids
-
-def find_all_matches(site_ids):
-	engine = create_engine('postgresql://localhost/traffic')
-	session = sessionmaker()
-	session.configure(bind=engine)
-	Base.metadata.create_all(engine)
-
-	qsession = session()
-
-	results = qsession.query(Site).filter(Site.site_id.in_(site_ids)).all()
-
-	return results
-
-def match():
-	log = open('missing_log.txt', 'w+')
-
-	tree = ET.parse('coordmatch/traffic_sites.xml')
-	points = tree.getroot().findall('./Document/Placemark')
-
-	engine = create_engine('postgresql://localhost/traffic')
-	session = sessionmaker()
-	session.configure(bind=engine)
-	Base.metadata.create_all(engine)
-	qsession = session()
-
-	regex = re.compile(r'(?P<addr>\d{1,3}[a-z]? (?:street|avenue)(?: nw| sw)?)')
-
-	for point in points:
-		address =  point.find('name').text.strip()
-		address_components = ' '.join(address.split(' ')[:2])
-
-		partial_matches = qsession.query(Site).filter(Site.address.like('%' + address_components + '%')).all()
-
-		print 'Looking for ', address, '...'
-
-		matches = []
-		for pmatch in partial_matches:
-			pmatch_address = pmatch.address.lower().replace('of', 'and')
-			
-			ratio = fuzz.token_sort_ratio(address.lower(), pmatch_address)
-
-			if (ratio > 80):
-				matches.append((pmatch, ratio))
-
-		num_of_matches = len(matches)
-		print matches
-		if num_of_matches > 0:
-			print '\nMATCHES FOUND: \n'
-
-			for i in range(num_of_matches):
-				print '%d. %s -- %f' % (i+1, matches[i][0].address, matches[i][1])
-
-			print '\nEnter your choice: '
-			choice = int(raw_input())
-
-			if (choice == 0):
-				log.write(point.find('name').text + "\n")
-			else:
-				match = matches[choice-1][0]
-				match.location = get_coords(point)
-
-				qsession.merge(match)
-				qsession.commit()
-		else:
-			log.write(point.find('name').text + "\n")
-
-	log.close()
+THRESHOLD = 100
 
 def get_coords(point_node):
 	lng = point_node.find('./ExtendedData/Data[@name="Longitude"]/value').text
@@ -88,8 +17,84 @@ def get_coords(point_node):
 
 	return 'SRID=4326;POINT(%s %s)' % (lng, lat)
 
-def sanatize_db_entry(entry, regex):
-	entry = re.sub(r'( north | west | east| south |of|and)', '', entry.lower())
+def match_from_kml():
+	log = open('match_log.txt', 'w+')
+
+	tree = ET.parse('coordmatch/traffic_sites.xml')
+	points = tree.getroot().findall('./Document/Placemark')
+	regex = re.compile(r'(?P<addr>\d{1,3}[a-z]? (?:street|avenue)(?: nw| sw)?)')
+
+	point_addresses = map(lambda point: point.find('name').text.strip(), points)
+	normalized_point_addresses = map(normalize_address, point_addresses)
+
+	engine = create_engine('postgresql://localhost/traffic')
+	session = sessionmaker()
+	session.configure(bind=engine)
+	Base.metadata.create_all(engine)
+	qsession = session()
+
+	sites_from_db = qsession.query(Site).all()
+	for site in sites_from_db:
+		site_address = normalize_address(site.address)
+
+		results = []
+		for index, address in enumerate(normalized_point_addresses):
+			score = fuzz.ratio(site_address, address)
+
+			if score >= THRESHOLD:
+				results.append((index, address, score))
+
+		if len(results) == 0:
+			log.write('*** No match found for database entry \'%s\' in KML.\n' % (site.address,))
+		elif len(results) == 1:
+			# Get results
+			index, address, ratio = results.pop()
+			# Remove point from search space.
+			kml_point = points.pop(index)
+			kml_address = kml_point.find('./name').text
+
+			normalized_point_addresses.pop(index)
+			# Set the site's location
+			site.location = get_coords(kml_point)
+			# Save to database
+			qsession.merge(site)
+			qsession.commit()
+
+			log.write('* Matched \'%s\' in database -> \'%s\' in KML with %f match.\n' % (site.address, kml_address, ratio))
+		else:
+			log.write('*** More than one match found for \'%s\'. Asking user to decide.\n' % (site.address,))
+			print '*** More than one match found for \'%s\'\n\n' % (site.address,)
+
+			for index, (point_index, address, ratio) in enumerate(results):
+				print '%d. \'%s\' -> %f%% match.' % (index, points[point_index].find('./name').text, ratio)
+
+			print '\nEnter your choice: '
+			choice = int(raw_input())
+
+			index, _, ratio = results[choice]
+
+			# Remove point from search space.
+			kml_point = points.pop(index)
+			kml_address = kml_point.find('./name').text
+
+			normalized_point_addresses.pop(index)
+			#Set the site's location.
+			site.location = get_coords(kml_point)
+			# Save to database.
+			qsession.merge(site)
+			qsession.commit()
+
+			log.write('* Matched \'%s\' in database -> \'%s\' in KML with %f match.\n' % (site.address, kml_address, ratio))
+
+	log.close()
+
+def normalize_address(entry):
+	address_regex = re.compile(r'(?P<addr>\d{1,3}[a-z]? (?:street|avenue)(?: nw| sw)?)')
+
+	return ' '.join(sanatize_entry(entry, address_regex))
+
+def sanatize_entry(entry, regex):
+	entry = re.sub(r'( north | west | east | south | northbound | southbound | eastbound | westbound |of|and)', '', entry.lower())
 	entry = filter(lambda x: len(x) > 0, re.sub(r'\s+', ' ', entry))
 
 	matches = regex.finditer(entry)

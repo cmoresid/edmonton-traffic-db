@@ -1,0 +1,1408 @@
+*** No match found for database entry '  2 Avenue SW West of  65 Street SW' in KML.
+*** No match found for database entry '  3 Avenue SW West of  58 Street SW' in KML.
+*** No match found for database entry '  3 Street NE North of 161 Avenue NE' in KML.
+*** No match found for database entry '  7 Avenue SW West of  79 Street SW' in KML.
+*** No match found for database entry '  9 Avenue SW West of 207 Street SW' in KML.
+*** No match found for database entry ' 23 Avenue West of 118 Street' in KML.
+*** No match found for database entry ' 17 Street SW North of  28 Avenue SW' in KML.
+*** No match found for database entry ' 17 Street SW North of Ellerslie Road SW' in KML.
+*** No match found for database entry '9 Avenue SW West of 215 Street SW' in KML.
+*** No match found for database entry ' 18 Avenue West of  34 Street' in KML.
+*** No match found for database entry ' 18 Street North of 153 Avenue' in KML.
+* Matched '13 Avenue West of Parsons Road' in database -> '13 Avenue and Parsons Road' in KML with 100.000000 match.
+*** No match found for database entry ' 18 Street North of 167 Avenue' in KML.
+*** No match found for database entry '  9 Avenue West of 112A Street' in KML.
+*** No match found for database entry '  9 Avenue West of 114A Street' in KML.
+*** No match found for database entry ' 18 Street North of 195 Avenue' in KML.
+*** More than one match found for ' 17 Street North of Sherwood Park Freeway '. Asking user to decide.
+* Matched ' 17 Street North of Sherwood Park Freeway ' in database -> 'Sherwood Park Freeway Eastbound and  17 Street' in KML with 100.000000 match.
+* Matched ' 17 Street North of  Tamarack Way' in database -> 'Tamarack Way and  17 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 18 Street North of 227 Avenue' in KML.
+*** No match found for database entry ' 18 Street North of Fort Road North' in KML.
+*** No match found for database entry '  9B Avenue West of 116  Street' in KML.
+*** No match found for database entry ' 10 Avenue West of 112 Street' in KML.
+*** No match found for database entry ' 10 Avenue West of 113 Street' in KML.
+*** No match found for database entry ' 10 Avenue West of Twin Brooks Cove' in KML.
+*** No match found for database entry ' 11 Avenue West of 106 Street' in KML.
+* Matched ' 23 Avenue West of  66 Street' in database -> '23 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 12 Avenue West of 41 Street' in KML.
+*** No match found for database entry ' 12 Avenue West of  65 Street' in KML.
+* Matched ' 23 Avenue West of  34 Street ' in database -> '23 Avenue and  34 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 19 Avenue West of  49 Street' in KML.
+*** No match found for database entry ' 19 Avenue West of  50 Street' in KML.
+*** No match found for database entry ' 19 Avenue West of  65 Street' in KML.
+* Matched ' 23 Avenue West of 111 Street ' in database -> '23 Avenue and 111 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of Leger Gate' in database -> '23 Avenue and Leger Gate' in KML with 100.000000 match.
+* Matched '23 Avenue West of Hodgson Way' in database -> '23 Avenue and Hodgson Way' in KML with 100.000000 match.
+*** No match found for database entry '12 Avenue West of 113 Street' in KML.
+*** No match found for database entry ' 19 Avenue West of 109 Street' in KML.
+*** No match found for database entry ' 12 Avenue West of Twin Brooks Drive East' in KML.
+*** No match found for database entry ' 12 Street North of  36A Avenue' in KML.
+*** No match found for database entry ' 12 Street North of  37B Avenue' in KML.
+*** No match found for database entry ' 13 Avenue West of  49 Street' in KML.
+* Matched ' 23 Avenue West of Mill Woods Road' in database -> '23 Avenue and Mill Woods Road' in KML with 100.000000 match.
+*** No match found for database entry '16A Avenue West of  34 Street' in KML.
+*** No match found for database entry ' 17 Street NE North of 121 Avenue NE' in KML.
+*** No match found for database entry ' 17 Street NE North of 195 Avenue NE' in KML.
+*** No match found for database entry '23 Avenue West of Meridian Street' in KML.
+*** No match found for database entry ' 17 Street NE North of 227 Avenue NE' in KML.
+* Matched ' 12 Avenue West of  66 Street ' in database -> '12 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 17 Street NE North of Yellowhead Trail ' in KML.
+* Matched ' 19 Avenue West of  66 Street' in database -> '19 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 17 Street North of  23 Avenue' in KML.
+*** No match found for database entry ' 17 Street North of  73 Avenue' in KML.
+*** No match found for database entry ' 17 Street North of  77 Avenue' in KML.
+*** No match found for database entry ' 17 Street North of 34 Avenue' in KML.
+*** No match found for database entry ' 17 Street North of 37A Avenue' in KML.
+*** No match found for database entry ' 19 Avenue West of Bearspaw Drive East' in KML.
+*** No match found for database entry ' 17 Street North of Anthony Henday Drive Westbound' in KML.
+*** No match found for database entry ' 17 Street North of Maple Ridge Drive' in KML.
+*** No match found for database entry ' 19 Avenue West of Bearspaw Drive West' in KML.
+* Matched ' 19 Avenue West of  99 Street' in database -> '19 Avenue and  99 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 17 Street North of Petroleum Way' in KML.
+* Matched ' 23 Avenue West of  50 Street' in database -> '23 Avenue and  50 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 19 Street North of  36 Avenue' in KML.
+*** No match found for database entry ' 17 Street North of Silverberry Road' in KML.
+*** No match found for database entry ' 20 Avenue SW West of 125 Street SW' in KML.
+*** No match found for database entry ' 20 Avenue SW West of Rutherford Road SW' in KML.
+*** No match found for database entry ' 17 Street North of Whitemud Drive Westbound' in KML.
+*** No match found for database entry ' 20 Avenue West of 104 Street' in KML.
+*** No match found for database entry ' 20 Avenue West of Mill Woods Road East' in KML.
+*** No match found for database entry ' 23 Avenue West of  32 Street' in KML.
+* Matched ' 23 Avenue West of  57 Street ' in database -> '23 Avenue and  57 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of  85 Street' in database -> '23 Avenue and  85 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of  91 Street' in database -> '23 Avenue and  91 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 23 Avenue West of  38 Street' in KML.
+*** No match found for database entry ' 23 Avenue West of  47 Street' in KML.
+* Matched '  4 Avenue SW West of  50 Street SW' in database -> '4 Avenue SW and 50 Street SW' in KML with 100.000000 match.
+* Matched '23 Avenue West of 199 Street' in database -> '23 Avenue and 199 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of 119 Street ' in database -> '23 Avenue and 119 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 23 Avenue West of 184 Street ' in KML.
+*** No match found for database entry ' 23 Avenue West of Ledger Road' in KML.
+*** No match found for database entry ' 23 Avenue West of Millwoods Road East' in KML.
+*** No match found for database entry ' 23 Street North of Wiseman Lane' in KML.
+*** No match found for database entry ' 24 Street North of  23 Avenue' in KML.
+*** No match found for database entry ' 25 Avenue West of  32 Street' in KML.
+*** No match found for database entry ' 25 Avenue West of 106A Street' in KML.
+*** No match found for database entry ' 25 Avenue West of 107 Street' in KML.
+*** No match found for database entry ' 25 Avenue West of 117 Street' in KML.
+*** No match found for database entry ' 25 Avenue West of 112 Street' in KML.
+*** No match found for database entry ' 25 Avenue West of 119 Street' in KML.
+*** No match found for database entry ' 25 Street North of 145 Avenue' in KML.
+*** No match found for database entry ' 26 Street North of Fort Road' in KML.
+*** No match found for database entry ' 27 Avenue West of   32 Street' in KML.
+*** No match found for database entry ' 27 Avenue West of  79 Street' in KML.
+*** No match found for database entry ' 28 Avenue SW West of  17 Street SW' in KML.
+*** No match found for database entry ' 28 Avenue West of  48 Street ' in KML.
+* Matched ' 28 Avenue West of Youville Drive West' in database -> '28 Avenue and Youville Drive West' in KML with 100.000000 match.
+* Matched ' 31 Avenue West of 106 Street' in database -> '31 Avenue and 106 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 45 Avenue West of 147 Street' in KML.
+* Matched ' 38 Avenue West of  50 Street' in database -> '38 Avenue and  50 Street' in KML with 100.000000 match.
+* Matched ' 38 Avenue West of  76 Street' in database -> '38 Avenue and  76 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 40 Avenue West of 109 Street' in KML.
+* Matched ' 39 Avenue West of  91 Street' in database -> '39 Avenue and  91 Street' in KML with 100.000000 match.
+* Matched ' 40 Avenue West of 106 Street' in database -> '40 Avenue and 106 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 28 Street North of  43A Avenue' in KML.
+*** No match found for database entry ' 28A Avenue West of  33 Street' in KML.
+*** No match found for database entry ' 29 Street North of  43A Avenue' in KML.
+*** No match found for database entry ' 29A Avenue West of 111B Street' in KML.
+*** No match found for database entry ' 30 Avenue West of 111B Street' in KML.
+*** No match found for database entry ' 30 Street North of  38 Avenue' in KML.
+*** No match found for database entry ' 30 Street North of  43 Avenue' in KML.
+*** No match found for database entry ' 31 Avenue West of 105A Street' in KML.
+* Matched ' 40 Avenue West of Terwillegar Drive Southbound' in database -> '40 Avenue and Terwillegar Drive Southbound' in KML with 100.000000 match.
+*** No match found for database entry ' 31 Avenue West of 112A Street' in KML.
+*** No match found for database entry ' 31 Avenue West of 113 Street' in KML.
+* Matched ' 48 Avenue West of Gateway Boulevard' in database -> '48 Avenue and Gateway Boulevard' in KML with 100.000000 match.
+* Matched ' 28 Avenue West of  50 Street' in database -> '28 Avenue and  50 Street' in KML with 100.000000 match.
+* Matched ' 28 Avenue West of  66 Street' in database -> '28 Avenue and  66 Street' in KML with 100.000000 match.
+* Matched ' 34 Avenue West of  48 Street' in database -> '34 Avenue and  48 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 34 Avenue West of 114 Street' in KML.
+*** No match found for database entry ' 34 Street North of 111 Avenue' in KML.
+*** No match found for database entry ' 34 Street North of 113 Avenue' in KML.
+*** No match found for database entry ' 34 Street North of 114 Avenue' in KML.
+*** No match found for database entry ' 34 Street North of 116A Avenue' in KML.
+*** No match found for database entry ' 34 Street North of Fort Road' in KML.
+* Matched ' 34 Avenue West of  99 Street' in database -> '34 Avenue and  99 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 35A Avenue West of  31A Street' in KML.
+*** No match found for database entry ' 36 Avenue West of  39 Street' in KML.
+*** No match found for database entry ' 36 Street North of 119 Avenue' in KML.
+*** No match found for database entry ' 36 Street North of 137 Avenue' in KML.
+*** No match found for database entry ' 36A Avenue West of  64 Street' in KML.
+*** No match found for database entry ' 36A Avenue West of  66 Street' in KML.
+*** No match found for database entry ' 36A Avenue West of 106A Street' in KML.
+*** No match found for database entry ' 37 Avenue East of  93 Street' in KML.
+*** No match found for database entry ' 37 Street North of  33 Avenue' in KML.
+*** No match found for database entry ' 37 Street North of  34 Avenue' in KML.
+*** No match found for database entry ' 37 Street North of  35 Avenue' in KML.
+*** No match found for database entry ' 38 Avenue West of  12 Street' in KML.
+* Matched ' 34 Street SW North of Ellerslie Road SW' in database -> 'Ellerslie Road SW and 34 Street SW' in KML with 100.000000 match.
+* Matched ' 38 Avenue West of  21 Street' in database -> '38 Avenue and  21 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 38 Avenue West of  47 Street' in KML.
+* Matched ' 38 Avenue West of  66 Street ' in database -> '38 Avenue and  66 Street' in KML with 100.000000 match.
+* Matched ' 38 Avenue West of  23 Street' in database -> '38 Avenue and  23 Street' in KML with 100.000000 match.
+* Matched ' 40 Avenue West of 111 Street' in database -> '40 Avenue and 111 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 40 Avenue West of 115A Street' in KML.
+*** No match found for database entry ' 38 Avenue West of  41 Street' in KML.
+*** No match found for database entry ' 38 Avenue West of  42 Street' in KML.
+*** No match found for database entry ' 38 Avenue West of  55 Street' in KML.
+*** No match found for database entry ' 38 Avenue West of  60A Street' in KML.
+*** No match found for database entry ' 40 Avenue West of 121 Street' in KML.
+*** No match found for database entry '40 Avenue West of Greenoch Crescent West' in KML.
+*** No match found for database entry ' 38 Avenue West of  62 Street' in KML.
+*** No match found for database entry ' 38 Avenue West of Hill View Cresent' in KML.
+*** No match found for database entry ' 40 Avenue West of Rhatigan Road East' in KML.
+*** No match found for database entry ' 38 Street North of  21 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of  23 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of  20 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of  39 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of 105 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of 107 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of 109 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of 110 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of 112 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of 116 Avenue' in KML.
+*** No match found for database entry ' 38 Street North of Kirkwood Avenue' in KML.
+*** No match found for database entry ' 38A Avenue West of  51 Street' in KML.
+*** No match found for database entry ' 39 Avenue West of  98 Street' in KML.
+*** No match found for database entry ' 39 Avenue West of  51 Street' in KML.
+*** No match found for database entry ' 39 Avenue West of  93 Street' in KML.
+*** No match found for database entry ' 40 Avenue West of  50 Street' in KML.
+*** No match found for database entry ' 40 Avenue West of  47 Street' in KML.
+*** No match found for database entry ' 40 Street North of 105 Avenue' in KML.
+*** No match found for database entry ' 40 Street North of 115 Avenue' in KML.
+*** No match found for database entry ' 40 Street North of 132 Avenue' in KML.
+*** No match found for database entry '40 Street North of 134 Avenue' in KML.
+*** No match found for database entry ' 40 Street North of 137 Avenue' in KML.
+*** No match found for database entry ' 40 Street North of Harrow Circle ' in KML.
+*** No match found for database entry ' 45 Street North of 103A Avenue' in KML.
+*** No match found for database entry ' 40 Street North of Harrow Circle' in KML.
+*** No match found for database entry ' 41 Avenue West of  93 Street' in KML.
+*** No match found for database entry ' 45 Street North of 105A Avenue' in KML.
+*** No match found for database entry ' 44 Street South of Jackson Road' in KML.
+*** No match found for database entry ' 44B Avenue West of  29 Street' in KML.
+*** No match found for database entry ' 45 Street North of 153 Avenue' in KML.
+*** No match found for database entry ' 47 Street North of  21 Avenue' in KML.
+*** No match found for database entry ' 47 Street North of  23 Avenue' in KML.
+*** No match found for database entry ' 47 Street North of  20 Avenue' in KML.
+*** No match found for database entry ' 47 Street North of  38 Avenue' in KML.
+*** No match found for database entry ' 47 Street North of 106B Avenue' in KML.
+*** No match found for database entry ' 48 Street North of  34 Avenue' in KML.
+*** No match found for database entry ' 48 Street North of  92 Avenue' in KML.
+*** No match found for database entry ' 48 Street North of  17 Avenue' in KML.
+*** No match found for database entry ' 48 Street North of  30 Avenue' in KML.
+*** No match found for database entry ' 48 Street North of  32 Avenue' in KML.
+*** No match found for database entry ' 48 Street North of 114 Avenue' in KML.
+*** No match found for database entry ' 49 Avenue West of 111A Street' in KML.
+*** No match found for database entry ' 49 Avenue West of 186 Street' in KML.
+*** No match found for database entry ' 49 Street North of  92 Avenue' in KML.
+*** No match found for database entry ' 49 Street North of  98 Avenue' in KML.
+*** No match found for database entry '51 Avenue West of 111A Street' in KML.
+*** No match found for database entry ' 51 Avenue West of 116 Street' in KML.
+*** No match found for database entry ' 51 Avenue West of 122A Street' in KML.
+*** No match found for database entry ' 50 Street North of  19 Avenue' in KML.
+*** No match found for database entry ' 51 Avenue West of 123 Street' in KML.
+*** No match found for database entry ' 50 Street North of  23 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  28 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  31 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  34 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  38 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  40 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  44 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  75 Avenue ' in KML.
+*** No match found for database entry ' 51 Avenue West of Riverbend Road' in KML.
+*** No match found for database entry ' 52 Avenue West of 109 Street' in KML.
+*** No match found for database entry ' 50 Street North of  82 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of  90A Avenue ' in KML.
+*** No match found for database entry ' 50 Street North of  98 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 101A  Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 107A Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 117 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 129 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 131 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 134 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 137 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 140 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 144 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 146 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 153 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 165 Avenue' in KML.
+*** No match found for database entry ' 53 Avenue West of 107 Street' in KML.
+*** No match found for database entry ' 50 Street North of 195 Avenue' in KML.
+*** No match found for database entry ' 53 Avenue West of 143 Street' in KML.
+*** No match found for database entry ' 50 Street North of 227 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of Anthony Hendey Drive Westbound' in KML.
+*** No match found for database entry ' 50 Street North of Eleniak Road' in KML.
+*** No match found for database entry ' 54 Avenue West of 111A Street' in KML.
+*** No match found for database entry ' 50 Street North of Jamha Road' in KML.
+*** No match found for database entry ' 50 Street North of McLeod Road' in KML.
+*** No  No match found for database entry ' 50 Street North of Anthony Hendey Drive Westbound' in KML.
+*** No match found for database entry ' 50 Street North of Eleniak Road' in KML.
+*** No match found for database entry ' 54 Avenue West of 111A Street' in KML.
+*** No match found for database entry ' 50 Street North of Jamha Road' in KML.
+*** No match found for database entry ' 50 Street North of McLeod Road' in KML.
+*** No match found for database entry ' 50 Street North of Whitemud Drive Westbound' in KML.
+*** No match found for database entry ' 50 Street North of Yellowhead Trail Westbound' in KML.
+*** No match found for database entry ' 50 Street SW North of  4 Avenue SW' in KML.
+base entry ' 55 Avenue West of  50 Street' in KML.
+*** No match found for database entry ' 50 Street SW North of  41 Avenue SW' in KML.
+*** No match found for database entry ' 55 Avenue West of Allard Way' in KML.
+*** No match found for database entry ' 55 Street North of 146 Avenue' in KML.
+* Matched ' 51 Avenue West of  75 Street' in database -> '51 Avenue and  75 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 51 Avenue West of  54 Street' in KML.
+*** No match found for database entry ' 51 Avenue West of  87 Street' in KML.
+*** No match found for database entry ' 51 Avenue West of  93 Street' in KML.
+*** No match found for database entry ' 55 Street North of 164 Avenue' in KML.
+* Matched ' 51 Avenue West of 105 Street' in database -> '51 Avenue and 105 Street' in KML with 100.000000 match.
+* Matched ' 56 Avenue West of  34 Street' in database -> '56 Avenue and  34 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 55 Street North of 165 Avenue' in KML.
+*** No match found for database entry ' 55 Street North of 167 Avenue' in KML.
+*** No match found for database entry ' 55 Street North of 167 Avenue' in KML.
+*** No match found for database entry ' 56 Avenue West of Riverbend Road' in KML.
+*** No match found for database entry ' 56 Street North of  82 Avenue' in KML.
+*** No match found for database entry ' 56 Street North of  85 Avenue' in KML.
+*** No match found for database entry ' 57 Avenue West of 109A Avenue' in KML.
+*** No match found for database entry ' 57 Avenue West of 113A Street' in KML.
+*** No match found for database entry '57 Avenue West of 181 Street' in KML.
+*** No match found for database entry ' 57 Avenue West of Lessard Drive West' in KML.
+*** No match found for database entry ' 57 Street North of  22 Avenue' in KML.
+*** No match found for database entry ' 57 Street North of  89 Avenue' in KML.
+*** No match found for database entry ' 57 Street North of  95 Avenue' in KML.
+*** No match found for database entry ' 58 Avenue West of  90 Street' in KML.
+*** No match found for database entry ' 57 Street North of Austin O'Brien Road' in KML.
+*** No match found for database entry ' 57A Street North of 161 Avenue' in KML.
+*** No match found for database entry ' 58 Avenue West of  88 Street' in KML.
+*** No match found for database entry ' 58 Avenue West of 113 Street' in KML.
+*** No match found for database entry ' 58 Avenue West of 181 Street' in KML.
+*** No match found for database entry ' 58 Street North of  34 Avenue' in KML.
+*** No match found for database entry ' 58 Street North of 119 Avenue North' in KML.
+*** No match found for database entry ' 58 Street North of  92C Avenue' in KML.
+*** No match found for database entry ' 58 Street North of 120 Avenue' in KML.
+*** No match found for database entry ' 58 Street North of 121 Avenue North' in KML.
+*** No match found for database entry ' 58 Street North of 137 Avenue' in KML.
+*** No match found for database entry ' 58 Street North of Youville Drive ' in KML.
+*** No match found for database entry ' 59 Avenue West of 175 Street' in KML.
+*** No match found for database entry ' 59 Street North of 161 Avenue' in KML.
+*** No match found for database entry ' 59A Street North of 153 Avenue' in KML.
+*** No match found for database entry ' 59A Street North of 156 Avenue' in KML.
+*** No match found for database entry ' 59A Street North of 157 Avenue' in KML.
+*** No match found for database entry ' 50 Street North of 118 Avenue' in KML.
+* Matched ' 51 Avenue West of  99 Street' in database -> '51 Avenue and  99 Street' in KML with 100.000000 match.
+* Matched ' 58 Avenue West of  91 Street' in database -> '58 Avenue and  91 Street' in KML with 100.000000 match.
+* Matched ' 58 Avenue West of 104 Street' in database -> '58 Avenue and 104 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 59A Street North of 162B Avenue' in KML.
+*** No match found for database entry ' 59A Street North of 165 Avenue' in KML.
+*** No match found for database entry ' 60 Avenue West of  98 Street' in KML.
+*** No match found for database entry ' 60 Avenue West of 107 Street' in KML.
+*** No match found for database entry ' 60 Avenue West of 113 Street' in KML.
+*** No match found for database entry ' 60 Avenue West of 113A Street' in KML.
+* Matched '118 Avenue West of 156 Street' in database -> '118 Avenue and 156 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 61 Street North of 152 Avenue' in KML.
+*** No match found for database entry ' 62 Avenue West of Goodwin Gate' in KML.
+*** No match found for database entry ' 64 Street North of 159 Avenue' in KML.
+*** No match found for database entry ' 64 Street North of 162B Avenue' in KML.
+*** No match found for database entry ' 66 Street North of  23 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of  41 Avenue ' in KML.
+*** No match found for database entry ' 66 Street North of 113 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 114 Avenue' in KML.
+*** No match found for database entry ' 70 Avenue West of 107 Street' in KML.
+*** No match found for database entry ' 66 Street North of 115 Avenue' in KML.
+* Matched ' 61 Avenue West of 104 Street' in database -> '61 Avenue and 104 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 66 Street North of 120 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 124 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 131 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 132A Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 134 Avenue ' in KML.
+*** No match found for database entry ' 66 Street North of 137 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 144 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 149 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 153 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 165 Avenue' in KML.
+*** No match found for database entry ' 70 Avenue West of 109 Street' in KML.
+*** No match found for database entry ' 66 Street North of 167 Avenue' in KML.
+* Matched ' 66 Street SW North of Shaw Way SW' in database -> 'Shaw Way SW and 66 Street SW' in KML with 100.000000 match.
+*** No match found for database entry ' 66 Street SW North of   6 Avenue SW' in KML.
+*** No match found for database entry ' 66 Street SW North of  41 Avenue SW' in KML.
+*** No match found for database entry ' 70 Street North of Delwood Road' in KML.
+*** No match found for database entry ' 70 Street SW North of  12 Avenue SW' in KML.
+* Matched ' 66 Street SW North of Stanton Drive SW' in database -> 'Stanton Drive SW and  66 Street SW' in KML with 100.000000 match.
+*** No match found for database entry ' 70 Street SW North of  13 Avenue SW' in KML.
+* Matched ' 71 Avenue West of 114 Street' in database -> '71 Avenue and 114 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 67 Avenue West of  50 Street' in KML.
+*** No match found for database entry ' 70 Street SW North of  16 Avenue SW' in KML.
+*** No match found for database entry ' 67 Avenue West of 109 Street' in KML.
+*** No match found for database entry ' 67 Avenue West of 112A Street' in KML.
+*** No match found for database entry ' 67 Street North of 101 Avenue' in KML.
+*** No match found for database entry ' 67 Street North of 114 Avenue ' in KML.
+*** No match found for database entry ' 67 Street North of 115 Avenue' in KML.
+*** No match found for database entry ' 68 Avenue West of  71 Street' in KML.
+*** No match found for database entry ' 68 Avenue West of 43A Street' in KML.
+*** No match found for database entry ' 72 Street North of 144 Avenue' in KML.
+*** No match found for database entry ' 68 Avenue West of 109 Street' in KML.
+*** No match found for database entry ' 68 Street North of  11 Avenue' in KML.
+*** No match found for database entry ' 68 Street North of 115 Avenue' in KML.
+*** No match found for database entry ' 68 Street North of 116 Avenue' in KML.
+*** No match found for database entry ' 75 Street North of  51 Avenue' in KML.
+*** No match found for database entry ' 69 Avenue West of 109 Street' in KML.
+*** No match found for database entry ' 75 Street North of  95 Avenue' in KML.
+* Matched ' 75 Street North of Roper Road' in database -> 'Roper Road and  75 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 75 Street North of Whitemud Drive Westbound' in KML.
+*** No match found for database entry ' 76 Avenue West of   9 Street ' in KML.
+* Matched ' 69 Avenue West of 178 Street ' in database -> '69 Avenue and 178 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 76 Avenue West of Girard Road' in KML.
+* Matched ' 76 Avenue West of  17 Street' in database -> '76 Avenue and  17 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 76 Avenue West of  78 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of  73 Street' in KML.
+* Matched ' 76 Avenue West of 109 Street' in database -> '76 Avenue and 109 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 76 Avenue West of  85 Street West' in KML.
+*** No match found for database entry ' 76 Avenue West of  89 Street West' in KML.
+*** No match found for database entry ' 76 Avenue West of  98 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of 107 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of 108 Street' in KML.
+*** No match found for database entry ' 76 Street North of 150 Avenue' in KML.
+*** No match found for database entry ' 76 Avenue West of 111 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of 113 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of 116 Street ' in KML.
+*** No match found for database entry ' 76 Avenue West of 119 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of 150 Street' in KML.
+*** No match found for database entry ' 76 Street North of 166A Avenue' in KML.
+*** No match found for database entry ' 76 Street North of 167 Avenue' in KML.
+*** No match found for database entry ' 77 Avenue West of  71 Street' in KML.
+*** No match found for database entry ' 78 Avenue West of 149 Street' in KML.
+*** No match found for database entry ' 78 Street North of 157 Avenue' in KML.
+*** No match found for database entry ' 78 Street North of 160 Avenue' in KML.
+*** No match found for database entry ' 79 Avenue West of  97 Street' in KML.
+*** No match found for database entry ' 79 Street North of  81 Avenue ' in KML.
+*** No match found for database entry ' 79 Avenue West of  89 Street' in KML.
+*** No match found for database entry ' 79 Street North of  89 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  90 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  97 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  80 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  77 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 118 Avenue' in KML.
+* Matched '63 Avenue West of  86 Street' in database -> '63 Avenue and  86 Street' in KML with 100.000000 match.
+* Matched ' 64 Avenue West of 172 Street' in database -> '64 Avenue and 172 Street' in KML with 100.000000 match.
+* Matched ' 66 Street North of Mill Woods Road South ' in database -> 'Mill Woods Road South and  66 Street' in KML with 100.000000 match.
+* Matched ' 68 Avenue West of  50 Street' in database -> '68 Avenue and  50 Street' in KML with 100.000000 match.
+* Matched ' 69 Avenue West of 170 Street' in database -> '69 Avenue and 170 Street' in KML with 100.000000 match.
+* Matched ' 76 Avenue West of  34 Street ' in database -> '76 Avenue and  34 Street' in KML with 100.000000 match.
+* Matched ' 76 Avenue West of  83 Street' in database -> '76 Avenue and  83 Street' in KML with 100.000000 match.
+* Matched ' 76 Avenue West of 114 Street' in database -> '76 Avenue and 114 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 79 Street North of  82 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  83 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  86 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  92 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  94 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  95 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of  98A Avenue ' in KML.
+*** No match found for database entry ' 88 Street North of 160 Avenue' in KML.
+*** No match found for database entry ' 88 Street SW North of  14 Avenue SW' in KML.
+*** No match found for database entry ' 88A Street North of 140 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of 101 Avenue ' in KML.
+*** No match found for database entry ' 89 Avenue West of 181 Street' in KML.
+*** No match found for database entry '89 Avenue West of Meadowlark Road' in KML.
+*** No match found for database entry ' 79 Street North of 104 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of 105 Avenue ' in KML.
+* Matched '119 Street SW North of Ellerslie Road SW' in database -> 'Ellerslie Road SW and 119 Street SW' in KML with 100.000000 match.
+*** No match found for database entry ' 79 Street North of 112S Avenue' in KML.
+*** No match found for database entry ' 79 Street North of 118 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of 164 Avenue' in KML.
+*** No match found for database entry ' 79 Street North of Argyll Road ' in KML.
+*** No match found for database entry ' 80 Avenue West of  97 Street' in KML.
+*** No match found for database entry ' 80 Avenue West of 110 Street' in KML.
+*** No match found for database entry ' 80 Avenue West of 139 Street' in KML.
+*** No match found for database entry ' 80 Avenue West of 147 Street' in KML.
+*** No match found for database entry ' 80 Street North of 117 Avenue' in KML.
+*** No match found for database entry '81 Avenue West of176 Street' in KML.
+*** No match found for database entry ' 82 Street North of 134 Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 135A Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 149A Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 153 Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 173 Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 180 Avenue' in KML.
+*** No match found for database entry ' 82 Street North of Yellowhead Trail Westbound' in KML.
+*** No match found for database entry ' 83 Street North of  96 Avenue' in KML.
+*** No match found for database entry ' 85 Street North of  96 Avenue' in KML.
+*** No match found for database entry ' 86 Avenue West of  77 Street' in KML.
+*** No match found for database entry ' 86 Street North of 113 Avenue' in KML.
+*** No match found for database entry ' 86 Street North of Millgate Transit Centre' in KML.
+* Matched ' 87 Avenue West of 112 Street' in database -> '87 Avenue and 112 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 91 Street North of Whitemud Drive Westbound' in KML.
+* Matched ' 90 Avenue West of 175 Street' in database -> '90 Avenue and 175 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 87 Avenue West of 118 Street' in KML.
+*** No match found for database entry ' 87 Avenue West of 120 Street' in KML.
+*** No match found for database entry ' 89 Street North of  81 Avenue ' in KML.
+* Matched '87 Avenue West of 159 Street' in database -> '87 Avenue and 159 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 89 Street North of  79 Avenue' in KML.
+*** No match found for database entry ' 87 Avenue West of 142 Street' in KML.
+*** No match found for database entry ' 87 Avenue West of 145 Street' in KML.
+*** No match found for database entry ' 87 Avenue West of 152 Street' in KML.
+*** No match found for database entry ' 87 Avenue West of 153 Street' in KML.
+*** No match found for database entry ' 89A Avenue West of 140 Street' in KML.
+*** No match found for database entry '87 Avenue West of 157 Street' in KML.
+* Matched ' 87 Avenue West of 170 Street' in database -> '87 Avenue and 170 Street' in KML with 100.000000 match.
+* Matched ' 87 Avenue West of 182 Street' in database -> '87 Avenue and 182 Street' in KML with 100.000000 match.
+* Matched ' 90 Avenue West of  50 Street' in database -> '90 Avenue and  50 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 87 Street North of  93 Avenue' in KML.
+*** No match found for database entry ' 87 Street North of 135A Avenue' in KML.
+*** No match found for database entry ' 87 Street North of 136 Avenue' in KML.
+*** No match found for database entry ' 87 Street North of 166 Avenue' in KML.
+*** No match found for database entry ' 87 Street North of 177 Avenue' in KML.
+*** No match found for database entry ' 88 Avenue West of  90 Street West' in KML.
+*** No match found for database entry ' 88 Avenue West of  92 Street' in KML.
+*** No match found for database entry ' 88 Avenue West of  99 Street' in KML.
+*** No match found for database entry ' 88 Avenue West of 160 Street' in KML.
+*** No match found for database entry ' 88 Avenue West of 164A Street' in KML.
+*** No match found for database entry ' 88 Avenue West of 165 Street' in KML.
+*** No match found for database entry ' 88 Street North of  10 Avenue' in KML.
+*** No match found for database entry ' 90 Avenue West of  58 Street' in KML.
+*** No match found for database entry ' 90 Avenue West of  71 Street' in KML.
+*** No match found for database entry ' 90 Street North of 128 Avenue' in KML.
+*** No match found for database entry ' 90A Avenue West of  52 Street' in KML.
+*** No match found for database entry ' 91 Street North of  23 Avenue' in KML.
+* Matched ' 90 Avenue West of  79 Street' in database -> '90 Avenue and  79 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 90 Avenue West of  73 Street' in KML.
+*** No match found for database entry ' 91 Street North of  28 Avenue' in KML.
+*** No match found for database entry ' 91 Street North of  34 Avenue' in KML.
+* Matched ' 90 Avenue West of 170 Street' in database -> '90 Avenue and 170 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 90 Avenue West of 150 Street' in KML.
+*** No match found for database entry ' 90 Avenue West of 154 Street' in KML.
+* Matched ' 91 Street SW North of Ellwood Drive SW' in database -> 'Ellwood Drive SW and  91 Street SW' in KML with 100.000000 match.
+*** No match found for database entry ' 91 Street North of  51 Avenue' in KML.
+*** No match found for database entry ' 91 Street North of  58 Avenue' in KML.
+*** No match found for database entry ' 91 Street North of 168 Avenue' in KML.
+*** No match found for database entry ' 91 Street North of 175 Avenue' in KML.
+*** No match found for database entry ' 91 Street North of Anthony Henday Drive Westbound' in KML.
+*** No match found for database entry ' 91 Street South of  63 Avenue' in KML.
+*** No match found for database entry ' 92 Street North of 106A Avenue' in KML.
+*** No match found for database entry ' 94B Avenue West of 68 Street' in KML.
+*** No match found for database entry ' 95 Avenue West of  76 Street' in KML.
+*** No match found for database entry ' 95 Avenue West of  79 Street' in KML.
+*** No match found for database entry ' 95 Avenue West of  80 Street' in KML.
+*** No match found for database entry ' 95 Avenue West of 157 Street' in KML.
+*** No match found for database entry ' 92 Street North of 105A Avenue' in KML.
+*** No match found for database entry ' 79 Street North of 112 Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 123 Avenue' in KML.
+* Matched ' 80 Avenue West of 104 Street' in database -> '80 Avenue and 104 Street' in KML with 100.000000 match.
+* Matched '81 Avenue West of 178 Street' in database -> '81 Avenue and 178 Street' in KML with 100.000000 match.
+* Matched ' 82 Avenue West of 101 Street' in database -> '82 Avenue and 101 Street' in KML with 100.000000 match.
+* Matched ' 82 Avenue West of 104 Street' in database -> '82 Avenue and 104 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 95 Avenue West of 167 Street' in KML.
+*** More than one match found for '102A Avenue West of 100 Street'. Asking user to decide.
+* Matched '102A Avenue West of 100 Street' in database -> '102A Avenue and 100 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 95 Street North of 162 Avenue' in KML.
+*** No match found for database entry ' 97 Avenue West of  79 Street' in KML.
+*** No match found for database entry ' 97 Street North of  62 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 109 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 111 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 125A Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 127 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 130 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 132 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 134 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of 135 Avenue' in KML.
+*** No match found for database entry ' 97 Street North of Griesbach Road' in KML.
+*** No match found for database entry ' 98 Avenue West of  62 Street' in KML.
+*** No match found for database entry ' 98 Avenue West of Ottewell Road' in KML.
+*** No match found for database entry ' 98 Street North of  78 Avenue' in KML.
+* Matched '103A Avenue West of 100 Street' in database -> '103A Avenue and 100 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 99 Street North of  22 Avenue' in KML.
+* Matched '104 Avenue West of 109 Street' in database -> '104 Avenue and 109 Street' in KML with 100.000000 match.
+* Matched '104 Avenue West of 110 Street' in database -> '104 Avenue and 110 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 99 Street North of  41 Avenue' in KML.
+*** No match found for database entry ' 99 Street North of  44 Avenue' in KML.
+*** No match found for database entry ' 99 Street North of  51 Avenue' in KML.
+* Matched '106 Avenue West of 101 Street' in database -> '106 Avenue and 101 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 99 Street North of  60 Avenue ' in KML.
+*** No match found for database entry ' 99 Street North of  65 Avenue' in KML.
+*** No match found for database entry ' 99 Street North of  75 Avenue' in KML.
+*** No match found for database entry ' 99 Street North of  79 Avenue' in KML.
+* Matched '106 Avenue West of 105 Street' in database -> '106 Avenue and 105 Street' in KML with 100.000000 match.
+* Matched '127 Street SW North of Ellerslie Road SW' in database -> 'Ellerslie Road SW and 127 Street SW' in KML with 100.000000 match.
+*** No match found for database entry ' 99 Street North of  83 Avenue' in KML.
+*** No match found for database entry ' 99 Street North of  88 Avenue' in KML.
+*** No match found for database entry ' 99 Street North of  90 Avenue' in KML.
+*** No match found for database entry '100 Avenue West of 102 Street' in KML.
+*** No match found for database entry '100 Avenue West of 117 Street' in KML.
+*** No match found for database entry '100 Avenue West of 119 Street ' in KML.
+*** No match found for database entry '104 Avenue West of 137 Street' in KML.
+*** No match found for database entry '104 Avenue West of 157 Street' in KML.
+*** No match found for database entry '100 Avenue West of 147 Street' in KML.
+*** No match found for database entry '100 Avenue West of 148 Street' in KML.
+*** No match found for database entry '104 Avenue West of 160 Street' in KML.
+*** No match found for database entry '100 Avenue West of 155 Street' in KML.
+*** No match found for database entry '104 Street North of  85 Avenue' in KML.
+* Matched '100 Avenue West of 171 Street' in database -> '100 Avenue and 171 Street' in KML with 100.000000 match.
+*** No match found for database entry '100 Avenue West of 169 Street' in KML.
+* Matched '100 Avenue West of 184 Street' in database -> '100 Avenue and 184 Street' in KML with 100.000000 match.
+* Matched '100 Street North of Castle Downs Road' in database -> 'Castle Downs Road and 100 Street' in KML with 100.000000 match.
+*** No match found for database entry '100 Avenue West of Anthony Henday Drive' in KML.
+*** No match found for database entry '100 Street North of 102A Avenue' in KML.
+*** No match found for database entry '100 Street North of 161 Avenue' in KML.
+*** No match found for database entry '100 Street North of 165 Avenue' in KML.
+*** No match found for database entry '100 Street North of McDougall Hill' in KML.
+*** No match found for database entry '101 Avenue West of  80 Street' in KML.
+*** No match found for database entry '101 Street North of 103 Avenue' in KML.
+*** No match found for database entry '101 Street North of 104 Avenue' in KML.
+*** No match found for database entry '101 Street North of 108 Avenue' in KML.
+*** No match found for database entry '102 Avenue West of  95 Street' in KML.
+*** No match found for database entry '102 Avenue West of Tweedsmuir Crescent East' in KML.
+*** No match found for database entry '104 Avenue West of 102 Street' in KML.
+*** No match found for database entry '105 Avenue West of 106 Street' in KML.
+*** No match found for database entry '105 Avenue West of 140 Street' in KML.
+*** No match found for database entry '105 Street North of  14 Avenue' in KML.
+*** No match found for database entry '105 Street North of  51 Avenue' in KML.
+*** No match found for database entry '106 Avenue West of  77 Street' in KML.
+*** No match found for database entry '106 Street North of  29 Avenue' in KML.
+*** No match found for database entry '106 Street North of  47 Avenue' in KML.
+*** No match found for database entry '107 Avenue West of 111 Street' in KML.
+*** No match found for database entry '107 Avenue West of 120 Street' in KML.
+*** No match found for database entry '107 Avenue West of 125 Street' in KML.
+*** No match found for database entry '107 Avenue West of 129 Street' in KML.
+*** No match found for database entry '107 Avenue West of 136 Street' in KML.
+*** No match found for database entry '107 Avenue West of 144 Street' in KML.
+*** No match found for database entry '107 Avenue West of 152 Street' in KML.
+*** No match found for database entry '107 Avenue West of 159 Street' in KML.
+*** No match found for database entry '107 Street North of  51 Avenue' in KML.
+*** No match found for database entry '107 Street North of  60 Avenue' in KML.
+*** No match found for database entry '107A Avenue West of  96 Street' in KML.
+*** No match found for database entry '107A Avenue West of  99 Street' in KML.
+*** No match found for database entry '101 Street North of 102 Avenue' in KML.
+*** No match found for database entry '103 Avenue West of 140 Street' in KML.
+*** No match found for database entry '100 Street North of 103 Avenue' in KML.
+*** No match found for database entry '105 Street North of 103 Avenue' in KML.
+*** No match found for database entry '105 Street North of 104 Avenue' in KML.
+*** No match found for database entry '101 Street North of 111 Avenue' in KML.
+*** No match found for database entry '106 Street North of 112 Avenue' in KML.
+*** No match found for database entry '101 Street SW North of  30 Avenue SW' in KML.
+* Matched '100 Avenue West of 112 Street' in database -> '100 Avenue and 112 Street' in KML with 100.000000 match.
+* Matched '105 Street North of Jasper Avenue' in database -> 'Jasper Avenue and 105 Street' in KML with 100.000000 match.
+* Matched '100 Avenue West of 156 Street' in database -> '100 Avenue and 156 Street' in KML with 100.000000 match.
+* Matched '101 Avenue West of  79 Street' in database -> '101 Avenue and  79 Street' in KML with 100.000000 match.
+* Matched '107 Avenue West of 156 Street' in database -> '107 Avenue and 156 Street' in KML with 100.000000 match.
+* Matched '100 Avenue West of 106 Street' in database -> '100 Avenue and 106 Street' in KML with 100.000000 match.
+* Matched '100 Avenue West of 109 Street' in database -> '100 Avenue and 109 Street' in KML with 100.000000 match.
+* Matched '102 Avenue West of 108 Street' in database -> '102 Avenue and 108 Street' in KML with 100.000000 match.
+* Matched '118 Avenue West of 154 Street' in database -> '118 Avenue and 154 Street' in KML with 100.000000 match.
+*** No match found for database entry '108 Avenue West of 151 Street' in KML.
+*** No match found for database entry '108 Avenue West of 154 Street' in KML.
+*** No match found for database entry '109 Avenue West of 133 Street' in KML.
+*** No match found for database entry '109 Avenue West of 136 Street' in KML.
+*** No match found for database entry '109 Street North of  53 Avenue' in KML.
+*** No match found for database entry '109 Street North of  54 Avenue' in KML.
+*** No match found for database entry '109 Street North of  58 Avenue' in KML.
+*** No match found for database entry '109 Street North of  62 Avenue' in KML.
+* Matched '111 Avenue West of 135 Street' in database -> '111 Avenue and 135 Street' in KML with 100.000000 match.
+*** No match found for database entry '109 Street North of  71 Avenue' in KML.
+*** No match found for database entry '109 Street North of  72 Avenue' in KML.
+*** No match found for database entry '109 Street North of  76 Avenue' in KML.
+*** No match found for database entry '109 Street North of  81 Avenue' in KML.
+*** No match found for database entry '109 Street North of  82 Avenue' in KML.
+*** No match found for database entry '109 Street North of  84 Avenue' in KML.
+* Matched '111 Avenue West of 170 Street' in database -> '111 Avenue and 170 Street' in KML with 100.000000 match.
+*** No match found for database entry '109 Street North of  97 Avenue' in KML.
+*** No match found for database entry '109 Street North of 100 Avenue' in KML.
+* Matched '114 Avenue West of 170 Street' in database -> '114 Avenue and 170 Street' in KML with 100.000000 match.
+* Matched '118 Avenue West of 170 Street' in database -> '118 Avenue and 170 Street' in KML with 100.000000 match.
+*** No match found for database entry '109 Street North of 109 Avenue' in KML.
+*** No match found for database entry '109 Street North of 110 Avenue' in KML.
+* Matched '118 Avenue West of 127 Street' in database -> '118 Avenue and 127 Street' in KML with 100.000000 match.
+*** No match found for database entry '109 Street North of 132 Avenue' in KML.
+*** No match found for database entry '109 Street North of 162A Avenue' in KML.
+*** No match found for database entry '109 Street North of 168 Avenue' in KML.
+*** No match found for database entry '109 Street North of Bearspaw Drive' in KML.
+* Matched '118 Avenue West of  34 Street' in database -> '118 Avenue and  34 Street' in KML with 100.000000 match.
+*** No match found for database entry '109 Street North of Kingsway Avenue' in KML.
+*** No match found for database entry '109A Avenue West of  46 Street' in KML.
+*** No match found for database entry '109A Street North of  54 Avenue' in KML.
+*** No match found for database entry '109A Street North of  57 Avenue' in KML.
+*** No match found for database entry '109A Street North of  63 Avenue' in KML.
+*** No match found for database entry '110 Avenue West of  36 Street' in KML.
+*** No match found for database entry '110 Avenue West of  38 Street' in KML.
+*** No match found for database entry '110 Avenue West of 160 Street' in KML.
+*** No match found for database entry '110 Street North of  41 Avenue' in KML.
+*** No match found for database entry '110 Street North of  64 Avenue' in KML.
+*** No match found for database entry '110 Street North of  81 Avenue' in KML.
+* Matched '118A Avenue West of 184 Street' in database -> '118A Avenue and 184 Street' in KML with 100.000000 match.
+* Matched '109 Street North of Jasper Avenue' in database -> 'Jasper Avenue and 109 Street' in KML with 100.000000 match.
+* Matched '111 Avenue West of  97 Street' in database -> '111 Avenue and  97 Street' in KML with 100.000000 match.
+* Matched '111 Avenue West of 108 Street' in database -> '111 Avenue and 108 Street' in KML with 100.000000 match.
+* Matched '112 Avenue West of  50 Street' in database -> '112 Avenue and  50 Street' in KML with 100.000000 match.
+*** No match found for database entry '111 Avenue West of 131 Street' in KML.
+* Matched '112 Avenue West of  65 Street ' in database -> '112 Avenue and  65 Street' in KML with 100.000000 match.
+* Matched '120 Avenue West of  82 Street' in database -> '120 Avenue and  82 Street' in KML with 100.000000 match.
+* Matched '111 Street SW North of Macewan Road SW' in database -> 'Macewan Road SW and 111 Street SW' in KML with 100.000000 match.
+* Matched '129 Avenue West of 127 Street' in database -> '129 Avenue and 127 Street' in KML with 100.000000 match.
+*** No match found for database entry '113 Avenue West of  30 Street' in KML.
+*** No match found for database entry '113A Street North of  55 Avenue' in KML.
+*** No match found for database entry '113A Street North of 127 Avenue' in KML.
+*** No match found for database entry '114 Avenue West of 151 Street' in KML.
+*** No match found for database entry '114 Avenue West of Tower Road' in KML.
+*** No match found for database entry '115 Avenue West of  81 Street' in KML.
+*** No match found for database entry '116 Street North of 112 Avenue' in KML.
+*** No match found for database entry '117 Avenue West of 130 Street' in KML.
+*** No match found for database entry '117 Street North of  37 Avenue' in KML.
+*** No match found for database entry '117 Street North of  87 Avenue' in KML.
+*** No match found for database entry '117 Street North of  83 Avenue' in KML.
+*** No match found for database entry '118 Avenue West of  49 Street' in KML.
+*** No match found for database entry '118 Avenue West of  60 Street' in KML.
+*** No match found for database entry '118 Avenue West of  67 Street' in KML.
+*** No match found for database entry '118 Avenue West of  83 Street West' in KML.
+*** No match found for database entry '118 Avenue West of  92 Street' in KML.
+*** No match found for database entry '118 Avenue West of 126 Street' in KML.
+*** No match found for database entry '118 Avenue West of 133 Street' in KML.
+*** No match found for database entry '118 Avenue West of 145 Street' in KML.
+*** No match found for database entry '119 Street North of  34 Avenue' in KML.
+*** No match found for database entry '118 Avenue West of 178 Street' in KML.
+*** No match found for database entry '118 Avenue West of Wayne Gretzky Drive SB' in KML.
+*** No match found for database entry '118 Street north of  11B Avenue' in KML.
+*** No match found for database entry '118 Street North of  32A Avenue' in KML.
+*** No match found for database entry '119 Avenue West of  77 Street' in KML.
+*** No match found for database entry '119 Avenue West of  81 Street' in KML.
+*** No match found for database entry '119 Street  North of Westbrook Drive' in KML.
+*** No match found for database entry '119 Street North of  32A Avenue' in KML.
+*** No match found for database entry '119 Street North of  40 Avenue' in KML.
+*** No match found for database entry '119 Street North of 109A Avenue' in KML.
+*** No match found for database entry '119 Street North of 135A Avenue' in KML.
+*** No match found for database entry '119 Street North of Fairway Drive' in KML.
+*** No match found for database entry '119 Street South of   9B Avenue' in KML.
+*** No match found for database entry '120 Avenue West of  68 Street' in KML.
+*** No match found for database entry '120 Avenue West of  71 Street' in KML.
+*** No match found for database entry '120 Avenue West of  77 Street' in KML.
+*** No match found for database entry '120 Avenue West of  79 Street' in KML.
+*** No match found for database entry '120 Avenue West of  81 Street' in KML.
+*** No match found for database entry '120 Street North of 112 Avenue' in KML.
+*** No match found for database entry '120 Street North of 114 Avenue' in KML.
+*** No match found for database entry '109 Street North of 105 Avenue' in KML.
+*** No match found for database entry '117 Street North of 107 Avenue' in KML.
+*** No match found for database entry '111 Avenue West of  96 Street' in KML.
+*** No match found for database entry '119 Street North of 115 Avenue' in KML.
+*** No match found for database entry '121 Avenue West of  67 Street' in KML.
+*** No match found for database entry '111 Street North of Saddleback Road South' in KML.
+*** More than one match found for '122 Street North of Whitemud Drive'. Asking user to decide.
+* Matched '122 Street North of Whitemud Drive' in database -> 'Whitemud Drive Eastbound and 122 Street' in KML with 100.000000 match.
+* Matched '127 Street North of Rapperswill Drive' in database -> 'Rapperswill Drive and 127 Street' in KML with 100.000000 match.
+* Matched '128 Avenue West of 149 Street' in database -> '128 Avenue and 149 Street' in KML with 100.000000 match.
+*** No match found for database entry '122 Street North of  51 Avenue' in KML.
+*** No match found for database entry '122 Street North of  63 Avenue' in KML.
+* Matched '129 Avenue West of  50 Street' in database -> '129 Avenue and  50 Street' in KML with 100.000000 match.
+*** No match found for database entry '127 Street North of 158 Avenue' in KML.
+*** No match found for database entry '127 Street North of 167 Avenue ' in KML.
+*** No match found for database entry '127 Street North of Anthony Henday Drive North' in KML.
+* Matched '129 Avenue West of  66 Street' in database -> '129 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry '137 Avenue West of  56 Street' in KML.
+* Matched '129 Avenue West of Fort Road' in database -> '129 Avenue and Fort Road' in KML with 100.000000 match.
+* Matched '130 Avenue West of St.Albert Trail' in database -> '130 Avenue and St.Albert Trail' in KML with 100.000000 match.
+*** No match found for database entry '127 Street SW North of  41 Avenue SW' in KML.
+*** No match found for database entry '128 Avenue West of  78 Street' in KML.
+*** No match found for database entry '128 Avenue West of  67 Avenue' in KML.
+*** No match found for database entry '128 Avenue West of  70 Street' in KML.
+*** No match found for database entry '128 Avenue West of  73 Street' in KML.
+*** No match found for database entry '128 Avenue West of 148 Street' in KML.
+*** No match found for database entry '128 Avenue West of St.Albert Trail' in KML.
+*** No match found for database entry '128 Street North of 108 Avenue' in KML.
+*** No match found for database entry '129 Avenue West of  56 Street' in KML.
+*** No match found for database entry '129 Avenue West of  58 Street' in KML.
+*** No match found for database entry '129 Avenue West of  65 Street' in KML.
+*** No match found for database entry '137 Avenue West of  79 Street' in KML.
+*** No match found for database entry '137 Avenue West of  63 Street' in KML.
+*** No match found for database entry '129 Avenue West of 108 Street' in KML.
+*** No match found for database entry '129 Avenue West of 113 Street' in KML.
+*** No match found for database entry '129 Avenue West of 120 Street' in KML.
+*** No match found for database entry '129 Avenue West of 121 Street' in KML.
+*** No match found for database entry '129 Avenue West of 124 Street' in KML.
+*** No match found for database entry '129 Street North of 117 Avenue' in KML.
+*** No match found for database entry '129 Street North of 148 Avenue' in KML.
+*** No match found for database entry '129 Street North of 155 Avenue' in KML.
+*** No match found for database entry '129 Street North of 159 Avenue' in KML.
+*** No match found for database entry '129B Avenue West of  96 Street' in KML.
+*** No match found for database entry '130 Avenue West of  50 Street' in KML.
+*** No match found for database entry '130 Avenue West of  81 Street' in KML.
+*** No match found for database entry '130 Avenue West of  82 Street' in KML.
+* Matched '137 Avenue West of  40 Street' in database -> '137 Avenue and  40 Street' in KML with 100.000000 match.
+*** No match found for database entry '124 Street North of 114 Avenue' in KML.
+*** No match found for database entry '124 Street North of 124 Avenue' in KML.
+* Matched '137 Avenue West of 127 Street' in database -> '137 Avenue and 127 Street' in KML with 100.000000 match.
+*** No match found for database entry '127 Avenue West of  87 Street' in KML.
+*** No match found for database entry '127 Avenue West of  91 Street' in KML.
+*** No match found for database entry '127 Avenue West of  94 Street' in KML.
+*** No match found for database entry '127 Avenue West of 125 Street West' in KML.
+*** No match found for database entry '127 Street North of 105 Avenue' in KML.
+* Matched '137 Avenue West of 133 Street' in database -> '137 Avenue and 133 Street' in KML with 100.000000 match.
+*** No match found for database entry '127 Street North of 108 Avenue' in KML.
+*** No match found for database entry '127 Street North of 109 Avenue' in KML.
+*** No match found for database entry '127 Street North of 109A Avenue' in KML.
+*** No match found for database entry '127 Street North of 110 Avenue' in KML.
+*** No match found for database entry '127 Street North of 112 Avenue' in KML.
+*** No match found for database entry '127 Street North of 113 Avenue' in KML.
+*** No match found for database entry '127 Street North of 116 Avenue' in KML.
+*** No match found for database entry '127 Street North of 117B Avenue' in KML.
+*** No match found for database entry '127 Street North of 119 Avenue' in KML.
+*** No match found for database entry '127 Street North of 123 Avenue' in KML.
+*** No match found for database entry '130 Street North of 112 Avenue' in KML.
+*** No match found for database entry '127 Street North of 126 Avenue' in KML.
+*** No match found for database entry '127 Street North of 127 Avenue' in KML.
+*** No match found for database entry '127 Street North of 132 Avenue' in KML.
+*** No match found for database entry '131 Avenue West of St.Albert Trail' in KML.
+*** No match found for database entry '132 Avenue West of 85 Street' in KML.
+*** No match found for database entry '127 Street North of 140 Avenue ' in KML.
+*** No match found for database entry '127 Street North of 145 Avenue' in KML.
+*** No match found for database entry '127 Street North of 153 Avenue' in KML.
+*** No match found for database entry '132 Avenue West of  88 Street' in KML.
+*** No match found for database entry '132 Avenue West of  95A Street ' in KML.
+*** No match found for database entry '132 Avenue West of 109 Street ' in KML.
+*** No match found for database entry '132 Avenue West of 126 Street' in KML.
+*** No match found for database entry '132 Avenue West of Delwood Road' in KML.
+*** No match found for database entry '132 Street North of 114 Avenue' in KML.
+*** No match found for database entry '132 Street South of 116 Avenue' in KML.
+*** No match found for database entry '132A Avenue West of  31 Street' in KML.
+*** No match found for database entry '134 Avenue West of  59 Street' in KML.
+*** No match found for database entry '135 Avenue West of 125 Street' in KML.
+*** No match found for database entry '136 Avenue West of  88 Street' in KML.
+*** No match found for database entry '136 Street North of 104 Avenue' in KML.
+*** No match found for database entry '137 Avenue West of  42 Street' in KML.
+*** No match found for database entry '137 Avenue West of  70 Street' in KML.
+* Matched '137 Avenue West of 149 Street' in database -> '137 Avenue and 149 Street' in KML with 100.000000 match.
+*** No match found for database entry '137 Avenue West of 102 Street' in KML.
+*** No match found for database entry '137 Avenue West of 104 Street' in KML.
+*** No match found for database entry '137 Avenue West of  90A Street' in KML.
+*** No match found for database entry '137 Avenue West of 111 Street' in KML.
+*** No match found for database entry '137 Avenue West of 116 Street' in KML.
+* Matched '137 Avenue West of 170 Street' in database -> '137 Avenue and 170 Street' in KML with 100.000000 match.
+* Matched '137 Avenue West of Victoria Trail' in database -> '137 Avenue and Victoria Trail' in KML with 100.000000 match.
+*** No match found for database entry '137 Avenue West of 135 Street' in KML.
+*** No match found for database entry '137 Avenue West of 163 Street' in KML.
+*** No match found for database entry '137 Avenue West of St.Albert Trail' in KML.
+*** No match found for database entry '137 Street North of 153 Avenue' in KML.
+*** No match found for database entry '124 Street North of 102 Avenue' in KML.
+*** No match found for database entry '127 Street North of 106 Avenue' in KML.
+*** No match found for database entry '121 Street North of Kingsway Avenue' in KML.
+*** No match found for database entry '127 Street SW North of  15 Avenue SW' in KML.
+*** No match found for database entry '139 Avenue West of  30 Street' in KML.
+*** No match found for database entry '139 Avenue West of  27 Street' in KML.
+*** No match found for database entry '139 Avenue West of  40 Street' in KML.
+*** No match found for database entry '139 Avenue West of  42 Street' in KML.
+*** No match found for database entry '139 Avenue West of 114 Street' in KML.
+*** No match found for database entry '139 Avenue West of 119 Street' in KML.
+*** No match found for database entry '139 Avenue West of Castle Downs Road' in KML.
+*** No match found for database entry '139 Street North of 109 Avenue' in KML.
+*** No match found for database entry '148 Avenue West of  59 Street' in KML.
+*** No match found for database entry '139 Street North of 117 Avenue' in KML.
+*** No match found for database entry '139 Street North of 118 Avenue' in KML.
+*** No match found for database entry '148 Avenue West of  62 Street' in KML.
+*** No match found for database entry '148 Avenue West of 127 Street' in KML.
+*** No match found for database entry '149 Avenue West of  65 Street' in KML.
+*** No match found for database entry '139 Street North of 119 Avenue' in KML.
+*** No match found for database entry '139 Street North of 152 Avenue' in KML.
+*** No match found for database entry '139 Street North of 158 Avenue' in KML.
+*** No match found for database entry '139 Street North of Woodcroft Avenue' in KML.
+*** No match found for database entry '140 Avenue West of  59 Street' in KML.
+*** No match found for database entry '140 Avenue West of  64 Street' in KML.
+*** No match found for database entry '140 Avenue West of  88A Street' in KML.
+*** No match found for database entry '140 Avenue West of  90 Street' in KML.
+*** No match found for database entry '141 Street SW North of Chappelle Drive SW' in KML.
+* Matched '137 Avenue West of  93 Street' in database -> '137 Avenue and  93 Street' in KML with 100.000000 match.
+*** No match found for database entry '142 Avenue West of 123 Street ' in KML.
+*** No match found for database entry '142 Street North of  89 Avenue' in KML.
+*** No match found for database entry '142 Street North of 111 Avenue' in KML.
+*** No match found for database entry '142 Street North of 137 Avenue' in KML.
+*** No match found for database entry '142 Street North of 157 Avenue' in KML.
+*** No match found for database entry '142 Street North of 162 Avenue' in KML.
+*** No match found for database entry '142 Street North of 167 Avenue' in KML.
+*** No match found for database entry '149 Street North of  84 Avenue' in KML.
+*** No match found for database entry '142 Street North of McQueen Road' in KML.
+* Matched '142 Street North of Yellowhead Trail' in database -> 'Yellowhead Trail and 142 Street' in KML with 100.000000 match.
+*** No match found for database entry '143 Street North of  50 Avenue' in KML.
+*** No match found for database entry '143 Street North of  98 Avenue' in KML.
+*** No match found for database entry '144 Avenue West of  23 Street' in KML.
+*** No match found for database entry '153 Avenue West of  18 Street' in KML.
+* Matched '144 Avenue West of  66 Street' in database -> '144 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry '144 Avenue West of  51 Street' in KML.
+*** No match found for database entry '149 Street North of  87 Avenue' in KML.
+*** No match found for database entry '144 Avenue West of  57 Street' in KML.
+*** No match found for database entry '149 Street North of  97 Avenue' in KML.
+*** No match found for database entry '144 Avenue West of  64 Street' in KML.
+*** No match found for database entry '144 Avenue West of  74 Street' in KML.
+*** No match found for database entry '144 Avenue West of  77 Street' in KML.
+*** No match found for database entry '144 Avenue West of  80 Street' in KML.
+*** No match found for database entry '144 Avenue West of  88A Street' in KML.
+* Matched '144 Avenue West of Victoria Trail' in database -> '144 Avenue and Victoria Trail' in KML with 100.000000 match.
+*** No match found for database entry '153 Avenue West of  73A Street' in KML.
+*** No match found for database entry '144 Street North of Stony Plain Road' in KML.
+*** No match found for database entry '144A Avenue West of  62 Street' in KML.
+*** No match found for database entry '145 Avenue West of  59 Street' in KML.
+*** No match found for database entry '145 Avenue West of 116 Street' in KML.
+*** No match found for database entry '145 Avenue West of 117 Street' in KML.
+*** No match found for database entry '145 Street North of  80 Avenue' in KML.
+*** No match found for database entry '145 Street North of  84 Avenue' in KML.
+*** No match found for database entry '145 Street North of  87 Avenue' in KML.
+*** No match found for database entry '145 Street North of  96 Avenue' in KML.
+*** No match found for database entry '146 Avenue West of  52 Street' in KML.
+*** No match found for database entry '146 Avenue West of  62 Street' in KML.
+*** No match found for database entry '147 Avenue West of  62 Street' in KML.
+*** No match found for database entry '147 Avenue West of Fraser Way' in KML.
+*** No match found for database entry '147 Street North of  43 Avenue' in KML.
+*** No match found for database entry '147A Street North of  46 Avenue' in KML.
+*** No match found for database entry '149 Street North of 106 Avenue North' in KML.
+*** No match found for database entry '149 Street North of 110 Avenue' in KML.
+*** No match found for database entry '149 Street North of 114 Avenue' in KML.
+*** No match found for database entry '149 Street North of 118 Avenue' in KML.
+*** No match found for database entry '149 Street North of 128 Avenue' in KML.
+*** No match found for database entry '149 Street North of 135 Avenue' in KML.
+*** No match found for database entry '149 Street North of Whitemud Drive ' in KML.
+*** No match found for database entry '153 Avenue West of 139 Street' in KML.
+* Matched '149 Street North of Yellowhead Trail' in database -> 'Yellowhead Trail and 149 Street' in KML with 100.000000 match.
+* Matched '153 Avenue West of 127 Street' in database -> '153 Avenue and 127 Street' in KML with 100.000000 match.
+*** No match found for database entry '149A Avenue West of  83 Street' in KML.
+*** No match found for database entry '149A Avenue West of  75 Street' in KML.
+*** No match found for database entry '149A Avenue West of  81 Street' in KML.
+*** No match found for database entry '150 Avenue West of 132 Street' in KML.
+* Matched '153 Avenue West of Beaumaris Road' in database -> '153 Avenue and Beaumaris Road' in KML with 100.000000 match.
+*** No match found for database entry '153 Avenue West of Griesbach Road' in KML.
+*** No match found for database entry '153 Avenue West of 134 Street' in KML.
+*** No match found for database entry '153 Avenue West of Miller Boulevard' in KML.
+* Matched '153 Avenue West of Victoria Trail' in database -> '153 Avenue and Victoria Trail' in KML with 100.000000 match.
+*** No match found for database entry '153 Avenue West of Meridian Street' in KML.
+* Matched '141 Street SW South of Ellerslie Road SW' in database -> 'Ellerslie Road SW and 141 Street SW' in KML with 100.000000 match.
+*** No match found for database entry '153 Street North of 76 Avenue' in KML.
+*** No match found for database entry '153 Street North of  89 Avenue' in KML.
+*** No match found for database entry '154 Street North of  76A Avenue' in KML.
+*** No match found for database entry '154 Street North of  76A Avenue' in KML.
+* Matched '149 Avenue West of  66 Street' in database -> '149 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry '155 Avenue West of 130 Street' in KML.
+*** No match found for database entry '155 Avenue West of 131 Street' in KML.
+*** No match found for database entry '156 Street North of  89 Avenue' in KML.
+*** No match found for database entry '156 Street North of 76A Avenue' in KML.
+* Matched '142 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 142 Street' in KML with 100.000000 match.
+* Matched '144 Avenue West of  94 Street' in database -> '144 Avenue and  94 Street' in KML with 100.000000 match.
+* Matched '153 Avenue West of  97 Street' in database -> '153 Avenue and  97 Street' in KML with 100.000000 match.
+*** No match found for database entry '156 Street North of  79A Avenue' in KML.
+*** No match found for database entry '156 Street North of  80 Avenue' in KML.
+*** No match found for database entry '156 Street North of  84 Avenue' in KML.
+*** No match found for database entry '168 Street North of  92 Avenue' in KML.
+*** No match found for database entry '156 Street North of  87 Avenue' in KML.
+*** No match found for database entry '169 Street North of  88 Avenue' in KML.
+*** No match found for database entry '156 Street North of  99 Avenue' in KML.
+* Matched '137 Avenue West of 156 Street' in database -> '137 Avenue and 156 Street' in KML with 100.000000 match.
+* Matched '139 Avenue West of Victoria Trail' in database -> '139 Avenue and Victoria Trail' in KML with 100.000000 match.
+*** No match found for database entry '170 Street North of  99 Avenue' in KML.
+*** No match found for database entry '156 Street North of 107 Avenue' in KML.
+*** No match found for database entry '156 Street North of 112 Avenue' in KML.
+*** No match found for database entry '156 Street North of 118 Avenue' in KML.
+*** No match found for database entry '156 Street North of 121A Avenue' in KML.
+*** No match found for database entry '156 Street North of 137 Avenue' in KML.
+* Matched '156 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 156 Street' in KML with 100.000000 match.
+*** No match found for database entry '156 Street North of Rio Terrace Drive' in KML.
+* Matched '158 Avenue West of  66 Street' in database -> '158 Avenue and  66 Street' in KML with 100.000000 match.
+*** No match found for database entry '157 Avenue West of  59 Street' in KML.
+*** No match found for database entry '157 Avenue West of 116 Street' in KML.
+*** No match found for database entry '157 Avenue West of Castle Downs Road' in KML.
+*** No match found for database entry '158 Avenue West of  64 Street' in KML.
+*** No match found for database entry '158 Avenue West of  88 Street' in KML.
+*** No match found for database entry '158 Avenue West of 109 Street' in KML.
+*** No match found for database entry '158 Avenue West of 127 Street' in KML.
+*** No match found for database entry '159 Street North of  78 Avenue' in KML.
+*** No match found for database entry '159 Street North of  81 Avenue' in KML.
+*** No match found for database entry '170 Street North of 117 Avenue' in KML.
+*** No match found for database entry '170 Street North of  64 Avenue' in KML.
+*** No match found for database entry '159 Street North of  83 Avenue' in KML.
+*** No match found for database entry '159 Street North of 109 Avenue' in KML.
+*** No match found for database entry '159A Avenue West of  59 Street' in KML.
+*** No match found for database entry '159A Avenue West of  88 Street' in KML.
+*** No match found for database entry '160 Avenue West of  78 Street' in KML.
+* Matched '167 Avenue West of  50 Street' in database -> '167 Avenue and  50 Street' in KML with 100.000000 match.
+*** No match found for database entry '160 Street North of  89A Avenue' in KML.
+*** No match found for database entry '160A Avenue West of  84 Street' in KML.
+*** No match found for database entry '163 Street North of  89 Avenue' in KML.
+* Matched '140 Avenue West of 127 Street' in database -> '140 Avenue and 127 Street' in KML with 100.000000 match.
+*** No match found for database entry '164A Avenue West of  64 Street' in KML.
+*** No match found for database entry '165 Avenue West of  66 Street' in KML.
+*** No match found for database entry '165 Avenue West of  67A Street' in KML.
+*** No match found for database entry '165 Avenue West of  95 Street' in KML.
+*** No match found for database entry '165 Street North of  87 Avenue' in KML.
+*** No match found for database entry '165 Street North of  89 Avenue' in KML.
+*** No match found for database entry '165 Street North of  93 Avenue' in KML.
+*** No match found for database entry '166A Street North of 110 Avenue' in KML.
+*** No match found for database entry '166A Street North of 111 Avenue' in KML.
+*** No match found for database entry '167 Avenue NE West of   9 Street NE' in KML.
+*** No match found for database entry '167 Avenue West of  10 Street' in KML.
+*** No match found for database entry '167 Avenue West of  50 Street' in KML.
+*** No match found for database entry '167 Avenue West of  50 Street' in KML.
+* Matched '167 Avenue West of  76 Street' in database -> '167 Avenue and  76 Street' in KML with 100.000000 match.
+* Matched '167 Avenue West of 115 Street' in database -> '167 Avenue and 115 Street' in KML with 100.000000 match.
+*** No match found for database entry '167 Avenue West of  95 Street' in KML.
+*** No match found for database entry '167 Avenue West of 142 Street' in KML.
+*** No match found for database entry '167 Avenue West of Fort Road' in KML.
+*** No match found for database entry '167 Avenue West of Zaychuk Road' in KML.
+*** No match found for database entry '167 Street North of  94 Avenue' in KML.
+*** No match found for database entry '167A Avenue West of 106 Street' in KML.
+*** No match found for database entry '168 Avenue West of 106 Street ' in KML.
+*** No match found for database entry '168 Street North of  91 Avenue' in KML.
+*** No match found for database entry '170 Street North of  69 Avenue' in KML.
+*** No match found for database entry '170 Street North of Whitemud Drive' in KML.
+* Matched '170 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 170 Street' in KML with 100.000000 match.
+* Matched '144 Avenue West of  36 Street' in database -> '144 Avenue and  36 Street' in KML with 100.000000 match.
+*** No match found for database entry '170 Street North of 100 Avenue' in KML.
+* Matched '145 Avenue West of Castle Downs Road' in database -> '145 Avenue and Castle Downs Road' in KML with 100.000000 match.
+*** No match found for database entry '170 Street North of 118 Avenue' in KML.
+* Matched '153 Avenue West of 121 Street' in database -> '153 Avenue and 121 Street' in KML with 100.000000 match.
+*** No match found for database entry '170 Street North of 129 Avenue' in KML.
+*** No match found for database entry '170 Street North of 105 Avenue' in KML.
+*** No match found for database entry '170 Street North of 109 Avenue' in KML.
+*** No match found for database entry '170 Street North of 110 Avenue' in KML.
+* Matched '153 Avenue West of Castle Downs Road' in database -> '153 Avenue and Castle Downs Road' in KML with 100.000000 match.
+*** No match found for database entry '170 Street North of 137 Avenue' in KML.
+*** No match found for database entry '170 Street North of 114 Avenue' in KML.
+*** No match found for database entry '170 Street North of  87 Avenue' in KML.
+*** No match found for database entry '170 Street North of  90 Avenue' in KML.
+*** No match found for database entry '170 Street North of  95 Avenue' in KML.
+* Matched '156 Street North of Meadowlark Road ' in database -> 'Meadowlark Road and 156 Street' in KML with 100.000000 match.
+*** No match found for database entry '170 Street North of Whitemud Drive' in KML.
+*** No match found for database entry '163 Street North of  99 Avenue' in KML.
+*** No match found for database entry '170 Street North of 103 Avenue' in KML.
+*** No match found for database entry '156 Street North of 104 Avenue' in KML.
+*** No match found for database entry '170 Street SW North of  41 Avenue SW' in KML.
+*** More than one match found for '156 Street North of Yellowhead Trail'. Asking user to decide.
+* Matched '156 Street North of Yellowhead Trail' in database -> 'Yellowhead Trail Eastbound and 156 Street' in KML with 100.000000 match.
+* Matched '160 Avenue West of  82 Street ' in database -> '160 Avenue And  82 Street' in KML with 100.000000 match.
+* Matched '160 Avenue West of  97 Street' in database -> '160 Avenue and  97 Street' in KML with 100.000000 match.
+* Matched '160 Avenue West of Manning Drive' in database -> '160 Avenue and Manning Drive' in KML with 100.000000 match.
+* Matched '167 Avenue West of  66 Street' in database -> '167 Avenue and  66 Street' in KML with 100.000000 match.
+* Matched '167 Avenue West of 127 Street' in database -> '167 Avenue and 127 Street' in KML with 100.000000 match.
+*** More than one match found for '170 Street North of Yellowhead Trail'. Asking user to decide.
+* Matched '170 Street North of Yellowhead Trail' in database -> 'Yellowhead Trail Westbound and 170 Street' in KML with 100.000000 match.
+* Matched '111 Avenue West of 109 Street' in database -> '111 Avenue and 109 Street' in KML with 100.000000 match.
+* Matched '184 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 184 Street' in KML with 100.000000 match.
+* Matched '176 Avenue West of  99 Street' in database -> '176 Avenue and  99 Street' in KML with 100.000000 match.
+* Matched '178 Street North of Callingwood Road' in database -> 'Callingwood Road and 178 Street' in KML with 100.000000 match.
+* Matched '186 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 186 Street' in KML with 100.000000 match.
+* Matched '199 Street North of Lessard Road' in database -> 'Lessard Road and 199 Street' in KML with 100.000000 match.
+*** No match found for database entry '170 Street SW North of Ellerslie Road SW' in KML.
+*** No match found for database entry '171 Avenue West of 110 Street' in KML.
+*** No match found for database entry '171 Avenue West of 111 Street' in KML.
+*** No match found for database entry '172 Avenue East of 106 Street' in KML.
+*** No match found for database entry '172 Avenue West of 104 Street' in KML.
+*** No match found for database entry '172 Street North of  63 Avenue' in KML.
+*** No match found for database entry '172 Street North of  67 Avenue' in KML.
+*** No match found for database entry '172 Street North of  75 Avenue' in KML.
+*** No match found for database entry '172 Street North of  69 Avenue' in KML.
+*** No match found for database entry '172 Street North of  95 Avenue' in KML.
+*** No match found for database entry '172 Street North of 106A Avenue' in KML.
+*** No match found for database entry '172 Street North of Lessard Drive' in KML.
+*** No match found for database entry '173 Avenue West of  82 Street' in KML.
+*** No match found for database entry '173 Avenue West of Klarvatten Lake Wynd' in KML.
+*** No match found for database entry '175 Street North of  82 Avenue' in KML.
+*** No match found for database entry '176 Avenue East of 104 Street' in KML.
+*** No match found for database entry '176 Avenue West of 107 Street' in KML.
+*** No match found for database entry '184 Street North of Wedgewood Boulevard' in KML.
+*** No match found for database entry '178 Street North of  64 Avenue' in KML.
+*** No match found for database entry '178 Street North of  69 Avenue' in KML.
+*** No match found for database entry '195 Avenue West of Meridian Street' in KML.
+*** No match found for database entry '178 Street North of  76 Avenue' in KML.
+*** No match found for database entry '178 Street North  of  81 Avenue' in KML.
+*** No match found for database entry '178 Street North of  90 Avenue' in KML.
+*** No match found for database entry '178 Street North of  95 Avenue' in KML.
+*** No match found for database entry '178 Street North of 102 Avenue' in KML.
+*** No match found for database entry '199 Street North of  35 Avenue' in KML.
+*** No match found for database entry '178 Street North of 107 Avenue' in KML.
+*** No match found for database entry '179 Avenue West of  92 Street' in KML.
+*** No match found for database entry '180 Avenue West of  82 Street' in KML.
+*** No match found for database entry '180 Avenue West of  85 Street' in KML.
+*** No match found for database entry '180 Avenue West of  89 Street' in KML.
+*** No match found for database entry '181 Street North of  58 Avenue' in KML.
+*** No match found for database entry '181 Street North of  80 Avenue' in KML.
+*** No match found for database entry '182 Street North of  81 Avenue' in KML.
+*** No match found for database entry '182 Street North of  89 Avenue' in KML.
+*** No match found for database entry '182 Street North of  91 Avenue' in KML.
+*** No match found for database entry '184 Street North of  73 Avenue' in KML.
+*** No match found for database entry '184 Street North of  23 Avenue' in KML.
+*** No match found for database entry '184 Street North of  52 Avenue' in KML.
+*** No match found for database entry '184 Street North of  57 Avenue' in KML.
+*** No match found for database entry '184 Street North of  82 Avenue' in KML.
+*** No match found for database entry '184 Street North of 111 Avenue' in KML.
+*** No match found for database entry '184 Street South of Anthony Henday Drive' in KML.
+*** No match found for database entry '184 Street North of 116 Avenue' in KML.
+*** No match found for database entry '184 Street North of 137 Avenue' in KML.
+*** No match found for database entry '199 Street North of  23 Avenue' in KML.
+*** No match found for database entry '199 Street North of  44 Avenue' in KML.
+*** No match found for database entry '199 Street North of  45 Avenue' in KML.
+*** No match found for database entry '206 Street North of  91 Avenue' in KML.
+*** No match found for database entry '199 Street North of  62 Avenue' in KML.
+*** No match found for database entry '199 Street North of Hemingway Road' in KML.
+*** No match found for database entry '199 Street North of  69 Avenue' in KML.
+*** No match found for database entry '184 Street SW North of  41 Avenue SW' in KML.
+*** No match found for database entry '185 Street North of  52 Avenue' in KML.
+*** No match found for database entry '186 Street North of  57 Avenue' in KML.
+*** No match found for database entry '187 Street North of  52 Avenue' in KML.
+*** No match found for database entry '187 Street North of  82 Avenue' in KML.
+*** No match found for database entry '188 Street North of  57 Avenue' in KML.
+*** No match found for database entry '188 Street North of  82 Avenue' in KML.
+*** No match found for database entry '188 Street North of Lessard Road' in KML.
+*** No match found for database entry '189 Street North of  59 Avenue' in KML.
+*** No match found for database entry '189 Street North of  90 Avenue' in KML.
+*** No match found for database entry '189 Street North of  90A Avenue' in KML.
+*** No match found for database entry '189 Street North of  95A Avenue' in KML.
+*** No match found for database entry '189 Street North of 111 Avenue' in KML.
+*** No match found for database entry '189A Street North of  82 Avenue' in KML.
+*** No match found for database entry '190 Street North of  53 Avenue' in KML.
+*** No match found for database entry '195 Avenue NE West of Fort Road NE' in KML.
+*** No match found for database entry '195 Avenue North West of  18 Street' in KML.
+*** No match found for database entry '195 Avenue West of  34 Street' in KML.
+*** No match found for database entry '199 Street North of 100 Avenue' in KML.
+*** No match found for database entry '195 Avenue West of  50 Street' in KML.
+*** No match found for database entry '199 Street North of 118A Avenue' in KML.
+*** No match found for database entry '199 Street North of Grandisle Road' in KML.
+*** No match found for database entry '199 Street North of Stony Plain Road' in KML.
+*** No match found for database entry '199 Street South of Trumpeter Way' in KML.
+*** No match found for database entry '204 Street North of  48 Avenue' in KML.
+*** No match found for database entry '204 Street North of  45 Avenue' in KML.
+*** No match found for database entry '204 Street North of  50 Avenue' in KML.
+*** No match found for database entry '205 Street North of  56 Avenue' in KML.
+*** No match found for database entry '211 Avenue NE West of  17 Street NE' in KML.
+*** No match found for database entry '211 Avenue NE West of  31 Street NE' in KML.
+*** No match found for database entry '213 Street North of  92 Avenue' in KML.
+*** No match found for database entry '215 Street North of  23 Avenue' in KML.
+*** No match found for database entry '215 Street North of  35 Avenue ' in KML.
+*** No match found for database entry '215 Street North of  62 Avenue' in KML.
+*** No match found for database entry '215 Street North of  98 Avenue' in KML.
+*** No match found for database entry '215 Street North of 118A Avenue' in KML.
+*** No match found for database entry '215 Street North of Costco Access North' in KML.
+*** No match found for database entry '215 Street North of E Lapotac Boulevard' in KML.
+*** No match found for database entry '186 Street North of 107 Avenue' in KML.
+*** No match found for database entry '215 Street North of 111 Avenue' in KML.
+*** No match found for database entry '215 Street North of Lapotac Boulevard' in KML.
+*** More than one match found for '215 Street North of Yellowhead Trail'. Asking user to decide.
+* Matched '215 Street North of Yellowhead Trail' in database -> 'Yellowhead Trail Eastbound and 215 Street' in KML with 100.000000 match.
+* Matched '175 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 175 Street' in KML with 100.000000 match.
+* Matched '215 Street North of Webber Greens Drive' in database -> 'Webber Greens Drive and 215 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Anthony Henday Drive South West of 111 Street ' in KML.
+*** No match found for database entry '215 Street SW North of  25 Avenue SW' in KML.
+*** No match found for database entry '227 Avenue West of  18 Street' in KML.
+*** No match found for database entry 'Ellerslie Road SW West of 141 Street SW' in KML.
+*** No match found for database entry '227 Avenue West of  34 Street' in KML.
+*** No match found for database entry '227 Avenue West of  34 Street' in KML.
+*** No match found for database entry '227 Avenue West of Meridian Street' in KML.
+* Matched ' 23 Avenue West of Rabbit HIll Road' in database -> '23 Avenue and Rabbit Hill Road' in KML with 100.000000 match.
+*** No match found for database entry '231 Street North of  79 Avenue' in KML.
+*** No match found for database entry 'Ellerslie Road SW West of 170 Street SW' in KML.
+*** No match found for database entry '231 Street North of 112 Avenue' in KML.
+*** No match found for database entry '231 Street North of 118A Avenue' in KML.
+* Matched '231 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 231 Street' in KML with 100.000000 match.
+*** No match found for database entry '231 Street South of Stony Plain Road' in KML.
+*** No match found for database entry ' 76 Avenue West of 173 Street' in KML.
+*** No match found for database entry ' 76 Avenue West of 176 Street' in KML.
+*** No match found for database entry '77 Avenue N West of 109 Street' in KML.
+*** No match found for database entry ' 78 Avenue West of  77 Street' in KML.
+*** No match found for database entry ' 80 Avenue West of 143 Street' in KML.
+*** No match found for database entry ' 80 Avenue West of 146 Street' in KML.
+*** No match found for database entry ' 84 Avenue West of 145 Street' in KML.
+*** No match found for database entry ' 85 Avenue West of 143 Street' in KML.
+* Matched '  87 Avenue West of 114 Street' in database -> '87 Avenue and 114 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 89 Avenue West of 184 Street ' in KML.
+*** No match found for database entry 'Anthony Henday Drive East South of Whitemud Drive' in KML.
+*** No match found for database entry 'Anthony Henday Drive North of Callingwood Road' in KML.
+*** No match found for database entry 'Anthony Henday Drive West North of 87 Avenue' in KML.
+*** No match found for database entry 'Anthony Henday Drive North of Lessard Road' in KML.
+*** No match found for database entry 'Anthony Henday Drive West North of Whitemud Drive' in KML.
+*** No match found for database entry 'Argyll Road West of  72 Street ' in KML.
+*** No match found for database entry 'Baseline Road West of  17 Street' in KML.
+* Matched 'Beaumaris Road North of 155 Avenue' in database -> '155 Avenue and Beaumaris Road' in KML with 100.000000 match.
+*** No match found for database entry 'Beaumaris Road West of Stirling Road' in KML.
+*** No match found for database entry 'Bellamy Hill South of  99 Avenue' in KML.
+*** No match found for database entry 'Buena Vista Road West of 140 Street' in KML.
+* Matched 'Calgary Trail North of  42 Avenue' in database -> '42 Avenue and Calgary Trail' in KML with 100.000000 match.
+*** No match found for database entry 'Calgary Trail North of G.A. MacDonald Avenue' in KML.
+*** No match found for database entry 'Calgary Trail SW North of Gateway Park Road SW' in KML.
+* Matched 'Callingwood Road West of 189 Street' in database -> 'Callingwood Road and 189 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Carter Crest Road South of Carse Lane' in KML.
+*** No match found for database entry 'Carter Crest Way North of Lawrence Court' in KML.
+* Matched 'Castle Downs Road North of 137 Avenue' in database -> '137 Avenue and Castle Downs Road' in KML with 100.000000 match.
+* Matched 'Castle Downs Road West of  97 Street' in database -> 'Castle Downs Road and  97 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Clareview Road East North of 129 Avenue' in KML.
+*** No match found for database entry 'Clareview Road North of 132A Avenue' in KML.
+*** No match found for database entry 'Clareview Road West North of 129 Avenue' in KML.
+*** No match found for database entry 'Connors Road West of Cloverdale Road ' in KML.
+*** No match found for database entry 'Ellerslie Road SW West of  17 Street SW' in KML.
+* Matched 'Ellerslie Road SW West of  66 Street SW' in database -> 'Ellerslie Road SW and  66 Street SW' in KML with 100.000000 match.
+*** No match found for database entry 'Ellerslie Road SW West of  34 Street SW' in KML.
+*** No match found for database entry 'Ellerslie Road SW West of MacEwan Road SW' in KML.
+* Matched 'Ellerslie Road SW West of  85 Street SW' in database -> 'Ellerslie Road SW and  85 Street SW' in KML with 100.000000 match.
+* Matched 'Ellerslie Road SW West of  91 Street SW' in database -> 'Ellerslie Road SW and  91 Street SW' in KML with 100.000000 match.
+* Matched 'Ellerslie Road SW West of 101 Street SW' in database -> 'Ellerslie Road SW and 101 Street SW' in KML with 100.000000 match.
+*** No match found for database entry 'Ellerslie Road SW West of 101 Street SW' in KML.
+* Matched 'Ellerslie Road SW West of 103A Street SW' in database -> 'Ellerslie Road SW and 103A Street SW' in KML with 100.000000 match.
+*** No match found for database entry 'Ellerslie Road SW West of 119 Street SW' in KML.
+*** No match found for database entry 'Fort Road North of 117 Avenue' in KML.
+*** No match found for database entry 'Ellerslie Road SW West of Meridian Street SW' in KML.
+* Matched 'Ellerslie Road SW West of Parsons Road SW' in database -> 'Ellerslie Road SW and Parsons Road SW' in KML with 100.000000 match.
+*** No match found for database entry 'Ellerslie Road SW West of Rabbit Hill Road SW' in KML.
+*** No match found for database entry 'Ellwood Road SW West of  91 Street SW' in KML.
+*** No match found for database entry 'Ellwood Road SW West of Ellwood Drive SW' in KML.
+*** No match found for database entry 'Emily Murphy Park Road West of Saskatchewan Drive' in KML.
+*** No match found for database entry 'Falconer Gate West of Falconer Road ' in KML.
+*** No match found for database entry 'Falconer Road North of Forbes Way' in KML.
+*** No match found for database entry 'Fort Road East of  34 Street' in KML.
+*** No match found for database entry 'Fort Road East of  62 Street' in KML.
+*** No match found for database entry 'Fort Road North of 119 Avenue' in KML.
+*** No match found for database entry 'Fort Road North of 121 Avenue' in KML.
+*** No match found for database entry 'Fort Road NE North of 195 Avenue NE' in KML.
+*** No match found for database entry 'Fort Road NE North of 211 Avenue NE' in KML.
+*** No match found for database entry 'Fort Road North of 122 Avenue' in KML.
+*** No match found for database entry 'Fort Road North of 134 Avenue' in KML.
+*** No match found for database entry 'Fort Road North of 153 Avenue' in KML.
+*** No match found for database entry 'Fort Road North of 167 Avenue' in KML.
+*** No match found for database entry 'Fort Road North of Mount Lawn Road' in KML.
+*** No match found for database entry 'Fort Road West of  63 Street' in KML.
+*** No match found for database entry 'Fort Road West of Meridian Street' in KML.
+*** No match found for database entry 'Fortway Drive West of Legislature Building Road' in KML.
+* Matched 'Fox Drive West of Belgravia Road' in database -> 'Fox Drive and Belgravia Road' in KML with 100.000000 match.
+*** No match found for database entry 'Fox Drive Westbound to Whitemud Drive Southbound' in KML.
+*** No match found for database entry 'Fulton Road North of Fulton Drive' in KML.
+*** No match found for database entry 'Fulton Road West of  50 Street' in KML.
+*** No match found for database entry 'Fulton Road West of  52 Street' in KML.
+*** No match found for database entry 'Fulton Road West of  60 Street' in KML.
+* Matched 'Gateway Boulevard North of  42 Avenue' in database -> '42 Avenue and Gateway Boulevard' in KML with 100.000000 match.
+* Matched 'Ellerslie Road SW West of 111 Street SW' in database -> 'Ellerslie Road SW and 111 Street SW' in KML with 100.000000 match.
+*** No match found for database entry 'Anthony Henday Drive South West of Terwillegar Drive ' in KML.
+*** More than one match found for 'Gateway Boulevard North of  23 Avenue'. Asking user to decide.
+* Matched 'Gateway Boulevard North of  23 Avenue' in database -> '23 Avenue Eastbound and Gateway Boulevard' in KML with 100.000000 match.
+*** No match found for database entry '215 Street South of  23 Avenue' in KML.
+* Matched 'Gateway Boulevard North of  54 Avenue' in database -> '54 Avenue and Gateway Boulevard' in KML with 100.000000 match.
+*** No match found for database entry 'Gateway Boulevard North of G.A. MacDonald Avenue' in KML.
+*** No match found for database entry 'Griesbach School Road North of Kinross Road' in KML.
+* Matched 'Groat Road North of 111 Avenue' in database -> '111 Avenue and Groat Road' in KML with 100.000000 match.
+*** No match found for database entry 'Groat Road North of Emily Murphy Park Road' in KML.
+*** No match found for database entry 'Groat Road North of Victoria Park Road' in KML.
+*** No match found for database entry 'Haddow Drive North of Tomlinson Common' in KML.
+*** No match found for database entry 'High Level Bridge' in KML.
+*** No match found for database entry 'Jasper Avenue West of 115 Street' in KML.
+*** No match found for database entry 'Jasper Avenue West of 120 Street' in KML.
+* Matched 'Jasper Avenue West of 121 Street' in database -> 'Jasper Avenue and 121 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Kingsway West of 102 Street' in KML.
+* Matched 'Kingsway West of 109 Street' in database -> 'Kingsway and 109 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Kingsway West of 120 Street ' in KML.
+*** No match found for database entry 'LeClair Way East of 184 Street' in KML.
+*** No match found for database entry 'Leger Boulevard West of Lauber Crescent West' in KML.
+*** No match found for database entry 'Leger Way North of Latta Crescent' in KML.
+*** No match found for database entry 'Leger Way North of Leger Road' in KML.
+* Matched 'Lessard Road West of Anthony Henday Drive Southbound' in database -> 'Lessard Road and Anthony Henday Drive Southbound' in KML with 100.000000 match.
+*** No match found for database entry 'Lewis Estates Boulevard North of Breckenridge Drive' in KML.
+*** No match found for database entry 'Macewan Road SW West of Macewan Close SW' in KML.
+*** No match found for database entry 'Macewan Road SW West of McAllister Loop East SW' in KML.
+*** No match found for database entry 'Macewan Road SW West of McAllister Loop West SW' in KML.
+*** No match found for database entry 'Manning Drive North of 142 Avenue' in KML.
+*** No match found for database entry 'Manning Drive North of 144 Avenue' in KML.
+*** More than one match found for 'Manning Drive North of 153 Avenue'. Asking user to decide.
+* Matched 'Manning Drive North of 153 Avenue' in database -> '153 Avenue and Manning Drive' in KML with 100.000000 match.
+*** No match found for database entry 'Manning Drive North of 160 Avenue' in KML.
+* Matched 'Manning Drive West of  18 Street' in database -> 'Manning Drive and  18 Street' in KML with 100.000000 match.
+*** More than one match found for 'Manning Drive West of  50 Street'. Asking user to decide.
+* Matched 'Manning Drive West of  50 Street' in database -> 'Manning Drive Westbound and  50 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Maple Road West of Tamarack Way' in KML.
+* Matched 'Mark Messier Trail North of 137 Avenue' in database -> '137 Avenue and Mark Messier Trail' in KML with 100.000000 match.
+* Matched 'Mark Messier Trail West of 156 Street' in database -> 'Mark Messier Trail and 156 Street' in KML with 100.000000 match.
+*** No match found for database entry 'McAllister Loop SW East of McAllister Way North SW' in KML.
+*** No match found for database entry 'Meadowlark Road North of  90 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road East North of  23 Avenue ' in KML.
+*** No match found for database entry 'Mill Woods Road East North of  18 Avenue' in KML.
+*** No match found for database entry 'Ormsby Road West North of Ormsby Lane South' in KML.
+*** No match found for database entry 'Mill Woods Road East North of  21 Avenue' in KML.
+*** No match found for database entry 'Ottewell Road North of  94 Avenue' in KML.
+*** No match found for database entry 'Ottewell Road North of  94B Avenue' in KML.
+*** No match found for database entry 'Ottewell Road North of  97 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road East North of  33 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road East North of  34 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road East North of  36 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road East North of 36 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road North of  23 Avenue' in KML.
+* Matched 'Mill Woods Road North of  28 Avenue' in database -> '28 Avenue and Mill Woods Road' in KML with 100.000000 match.
+*** No match found for database entry 'Mill Woods Road North of  38A Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road North of  29 Avenue' in KML.
+*** No match found for database entry 'Ozerna Road North of 164 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road North of  32 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road North of  34 Avenue' in KML.
+*** No match found for database entry 'Mill Woods Road North of Knottwood Road' in KML.
+*** No match found for database entry 'Mill Woods Road South West of  49A Street' in KML.
+*** No match found for database entry 'Mill Woods Road South West of  66 Street' in KML.
+*** No match found for database entry 'Mill Woods Road South West of  50 Street' in KML.
+*** No match found for database entry 'Rabbit Hill Road North of  23 Avenue ' in KML.
+*** No match found for database entry 'Rabbit Hill Road North of Cormack Crescent' in KML.
+*** No match found for database entry 'Rabbit Hill Road North of Leger Boulevard' in KML.
+*** No match found for database entry 'Mill Woods Road South West of  62 Street' in KML.
+*** No match found for database entry 'Mill Woods Road West of  87 Street' in KML.
+*** No match found for database entry 'Mill Woods South West of  54 Street' in KML.
+*** No match found for database entry 'Miller Boulevard North of 152 Avenue' in KML.
+*** No match found for database entry 'Miller Boulevard West of Manning Drive Southbound' in KML.
+*** No match found for database entry 'Oeming Road North of Oaks Gate' in KML.
+*** No match found for database entry 'Omand Drive North of Ogilvie Boulevard' in KML.
+*** No match found for database entry 'Omand Drive West of O'Connor Close' in KML.
+*** No match found for database entry 'Ormsby Road East East of 188 Street' in KML.
+* Matched 'Sherwood Park Freeway West of  17 Street' in database -> 'Sherwood Park Freeway Westbound and  17 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Ormsby Road East North of  62B Avenue' in KML.
+*** No match found for database entry 'Rabbit Hill Road North of Leger Way' in KML.
+*** No match found for database entry 'Rabbit Hill Road North of Sandin Way' in KML.
+*** No match found for database entry 'Rabbit Hill Road North of Tory Gate' in KML.
+*** No match found for database entry 'Ray Gibbons Drive North of Anthony Henday Drive' in KML.
+*** No match found for database entry 'Riverbend Road North of Rhatigan Road East' in KML.
+*** No match found for database entry 'Saskatchewan Drive North of University Avenue' in KML.
+*** No match found for database entry 'Saskatchewan Drive West of 100 Street' in KML.
+* Matched 'Saskatchewan Drive West of 101 Street' in database -> 'Saskatchewan Drive and 101 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Saskatchewan Drive West of 105 Street' in KML.
+*** No match found for database entry 'Saskatchewan Drive West of 107 Street' in KML.
+* Matched 'Saskatchewan Drive West of 111 Street' in database -> 'Saskatchewan Drive and 111 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Saskatchewan Drive West of Tommy Banks Way' in KML.
+*** No match found for database entry 'Scona Road North of 94 Avenue' in KML.
+*** More than one match found for 'Sherwood Park Freeway West of 34 Street'. Asking user to decide.
+* Matched 'Sherwood Park Freeway West of 34 Street' in database -> 'Sherwood Park Freeway Westbound and  34 Street' in KML with 100.000000 match.
+*** More than one match found for 'Sherwood Park Freeway West of  50 Street'. Asking user to decide.
+* Matched 'Sherwood Park Freeway West of  50 Street' in database -> 'Sherwood Park Freeway Westbound and  50 Street' in KML with 100.000000 match.
+* Matched 'St Albert Trail North of 118 Avenue' in database -> '118 Avenue and St Albert Trail' in KML with 100.000000 match.
+*** No match found for database entry 'Stadium Road East of  92 Street' in KML.
+*** No match found for database entry 'Stony Plain Road West of 161 Street' in KML.
+* Matched 'Stony Plain Road West of 167 Street' in database -> 'Stony Plain Road and 167 Street' in KML with 100.000000 match.
+* Matched 'Stony Plain Road West of 171 Street' in database -> 'Stony Plain Road and 171 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Stony Plain Road West of 180 Street' in KML.
+*** No match found for database entry 'Stony Plain Road West of 184 Street' in KML.
+*** No match found for database entry 'Stony Plain Road West of 186 Street' in KML.
+*** No match found for database entry 'Stony Plain Road West of 222 Street' in KML.
+* Matched 'Jasper Avenue West of Alex Taylor Road' in database -> 'Jasper Avenue and Alex Taylor Road' in KML with 100.000000 match.
+* Matched 'Jasper Avenue West of 108 Street' in database -> 'Jasper Avenue and 108 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Kingsway North of Princess Elizabeth Avenue' in KML.
+* Matched 'Haddow Drive West of Terwillegar Drive' in database -> 'Haddow Drive and Terwillegar Drive' in KML with 100.000000 match.
+*** No match found for database entry 'Stony Plain Road West of Anthony Henday Drive' in KML.
+* Matched 'Suder Greens Drive West of 213 Street' in database -> 'Suder Greens Drive and 213 Street' in KML with 100.000000 match.
+* Matched 'Terrace Road West of  98 Avenue' in database -> '98 Avenue and Terrace Road' in KML with 100.000000 match.
+*** No match found for database entry 'Terwillegar Drive North of  23 Avenue' in KML.
+*** No match found for database entry 'Terwillegar Drive North of Anthony Henday Drive Westbound' in KML.
+*** No match found for database entry 'Terwillegar Drive North of Haddow Drive' in KML.
+*** No match found for database entry 'Towne Centre Boulevard North of Terwillegar Common' in KML.
+*** No match found for database entry 'Towne Centre Boulevard North of Tufford Way' in KML.
+*** No match found for database entry 'Victoria Park Road West of 116 Street' in KML.
+* Matched 'Victoria Trail North of 135 Avenue' in database -> '135 Avenue and Victoria Trail' in KML with 100.000000 match.
+*** No match found for database entry 'Victoria Trail North of 151 Avenue' in KML.
+*** No match found for database entry 'Victoria Trail North of Yellowhead Trail Westbound' in KML.
+* Matched '184 Street North of Yellowhead Trail' in database -> 'Yellowhead Trail Westbound and 184 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Watt Boulevard SW North of  13 Avenue SW' in KML.
+*** No match found for database entry 'Watt Boulevard SW West of  61 Street SW' in KML.
+*** No match found for database entry 'Wayne Gretzky Drive North of 118 Avenue' in KML.
+*** No match found for database entry 'Wayne Gretzky Drive North of Capilano Bridge' in KML.
+*** No match found for database entry 'Webber Greens Drive West of 199 Street' in KML.
+*** No match found for database entry 'Webber Greens Drive West of 213 Street' in KML.
+*** No match found for database entry 'Webber Greens Drive West of Suder Greens Drive' in KML.
+*** No match found for database entry 'Whitemud Drive East of 149 Street' in KML.
+*** No match found for database entry 'Whitemud Drive North of  53 Avenue' in KML.
+*** More than one match found for 'Whitemud Drive West of  17 Street'. Asking user to decide.
+* Matched 'Whitemud Drive West of  17 Street' in database -> 'Whitemud Drive Westbound and  17 Street' in KML with 100.000000 match.
+*** More than one match found for 'Whitemud Drive West of  34 Street'. Asking user to decide.
+* Matched 'Whitemud Drive West of  34 Street' in database -> 'Whitemud Drive Westbound and  34 Street' in KML with 100.000000 match.
+*** More than one match found for 'Whitemud Drive West of  50 Street'. Asking user to decide.
+* Matched 'Whitemud Drive West of  50 Street' in database -> 'Whitemud Drive Westbound and  50 Street' in KML with 100.000000 match.
+*** More than one match found for 'Whitemud Drive West of  91 Street'. Asking user to decide.
+* Matched 'Whitemud Drive West of  91 Street' in database -> 'Whitemud Drive Westbound and  91 Street' in KML with 100.000000 match.
+*** More than one match found for 'Whitemud Drive West of  99 Street'. Asking user to decide.
+* Matched 'Whitemud Drive West of  99 Street' in database -> 'Whitemud Drive Westbound and  99 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Whitemud Drive West of 111 Street' in KML.
+*** No match found for database entry 'Whitemud Drive West of 149 Street' in KML.
+*** No match found for database entry 'Whitemud Drive West of 170 Street' in KML.
+*** More than one match found for 'Whitemud Drive West of 178 Street'. Asking user to decide.
+* Matched 'Whitemud Drive West of 178 Street' in database -> 'Whitemud Drive Westbound and 178 Street' in KML with 100.000000 match.
+* Matched 'Whitemud Drive West of 215 Street' in database -> 'Whitemud Drive and 215 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Whitemud Drive West of Anthony Henday Drive East' in KML.
+*** No match found for database entry 'Whitemud Drive West of Gateway Boulevard' in KML.
+*** No match found for database entry 'Yellowhead Trail Service Road East of 133 Street' in KML.
+*** No match found for database entry 'Yellowhead Trail West of  17 Street' in KML.
+*** No match found for database entry 'Yellowhead Trail West of  33 Street NE' in KML.
+* Matched 'Yellowhead Trail West of  62 Street' in database -> 'Yellowhead Trail and  62 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of  66 Street' in database -> 'Yellowhead Trail and  66 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of  68 Street ' in database -> 'Yellowhead Trail and  68 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of  89 Street ' in database -> 'Yellowhead Trail and  89 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of  97 Street' in database -> 'Yellowhead Trail and  97 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of 107 Street' in database -> 'Yellowhead Trail and 107 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of 121 Street' in database -> 'Yellowhead Trail and 121 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of 124 Street' in database -> 'Yellowhead Trail and 124 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of 127 Street' in database -> 'Yellowhead Trail and 127 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Yellowhead Trail West of 149 Street' in KML.
+* Matched 'Yellowhead Trail West of 156 Street' in database -> 'Yellowhead Trail Westbound and 156 Street' in KML with 100.000000 match.
+* Matched 'Yellowhead Trail West of 170 Street' in database -> 'Yellowhead Trail Eastbound and 170 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Yellowhead Trail West of 184 Street' in KML.
+*** No match found for database entry 'Groat Road North of 109 Avenue' in KML.
+* Matched 'Yellowhead Trail West of 215 Street' in database -> 'Yellowhead Trail Westbound and 215 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Yellowhead Trail West of Anthony Henday Drive West' in KML.
+* Matched 'Yellowhead Trail West of Fort Road' in database -> 'Yellowhead Trail and Fort Road' in KML with 100.000000 match.
+*** No match found for database entry 'Yellowhead Trail West of Meridian Street' in KML.
+*** No match found for database entry 'Yellowhead Trail West of St.Albert Trail' in KML.
+*** More than one match found for 'Yellowhead Trail West of Victoria Trail'. Asking user to decide.
+* Matched 'Yellowhead Trail West of Victoria Trail' in database -> 'Yellowhead Trail Westbound and Victoria Trail' in KML with 100.000000 match.
+*** No match found for database entry 'Yellowhead Trail Westbound West of  17 Street' in KML.
+*** No match found for database entry 'Youville Drive East East of  55 Street' in KML.
+*** No match found for database entry 'Zaychuk Road North of 167 Avenue' in KML.
+* Matched '100 Avenue West of 103 Street' in database -> '100 Avenue and 103 Street' in KML with 100.000000 match.
+*** No match found for database entry '110 Street North of  97 Avenue' in KML.
+*** No match found for database entry '178 Street North of  98 Avenue' in KML.
+* Matched ' 99 Avenue West of 109 Street' in database -> '99 Avenue and 109 Street' in KML with 100.000000 match.
+* Matched 'Jasper Avenue West of  84 Street' in database -> 'Jasper Avenue and  84 Street' in KML with 100.000000 match.
+* Matched '100 Street North of Jasper Avenue' in database -> 'Jasper Avenue and 100 Street' in KML with 100.000000 match.
+*** No match found for database entry '121 Street North of Jasper Avenue' in KML.
+*** No match found for database entry '101A Avenue West Of  52 Street' in KML.
+*** No match found for database entry '109 Street North of 102 Avenue' in KML.
+* Matched '102A Avenue West of  95 Street' in database -> '102A Avenue and  95 Street' in KML with 100.000000 match.
+*** No match found for database entry '215 Street North of 103 Avenue' in KML.
+* Matched '103A Avenue West of  99 Street' in database -> '103A Avenue and  99 Street' in KML with 100.000000 match.
+* Matched '104 Avenue West of 104 Street' in database -> '104 Avenue and 104 Street' in KML with 100.000000 match.
+* Matched '124 Street North of Stony Plain Road' in database -> 'Stony Plain Road and 124 Street' in KML with 100.000000 match.
+* Matched '104 Avenue West of 112 Street' in database -> '104 Avenue and 112 Street' in KML with 100.000000 match.
+*** No match found for database entry '154 Street North of 105 Avenue' in KML.
+* Matched '106 Avenue West of 109 Street' in database -> '106 Avenue and 109 Street' in KML with 100.000000 match.
+*** No match found for database entry '107A Avenue West of 139 Street' in KML.
+* Matched '111 Avenue West of 102 Street' in database -> '111 Avenue and 102 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 53 Street North of 112 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 112 Avenue' in KML.
+*** No match found for database entry ' 82 Street North of 112 Avenue' in KML.
+*** No match found for database entry '120 Street North of 115 Avenue' in KML.
+* Matched 'Fort Road North of 115 Avenue' in database -> '115 Avenue and Fort Road' in KML with 100.000000 match.
+*** No match found for database entry '118 Avenue West of 105 Street' in KML.
+* Matched 'Princess Elizabeth Avenue West of 109 Street West' in database -> 'Princess Elizabeth Avenue and 109 Street West' in KML with 100.000000 match.
+*** No match found for database entry ' 82 Street North of 118 Avenue' in KML.
+*** No match found for database entry ' 66 Street North of 121 Avenue' in KML.
+*** No match found for database entry '213 Street North of Suder Greens Drive' in KML.
+* Matched '215 Street North of Secord Boulevard' in database -> 'Secord Boulevard and 215 Street' in KML with 100.000000 match.
+*** No match found for database entry '122 Avenue West of  90 Street ' in KML.
+*** No match found for database entry 'Ellerslie Road SW West of 127 Street SW' in KML.
+* Matched '9 Avenue West of 111 Street ' in database -> '9 Avenue and 111 Street' in KML with 100.000000 match.
+*** No match found for database entry '109 Street North of 111 Avenue' in KML.
+*** More than one match found for 'Calgary Trail North of  23 Avenue'. Asking user to decide.
+* Matched 'Calgary Trail North of  23 Avenue' in database -> '23 Avenue Eastbound and Calgary Trail' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of 109 Street' in database -> '23 Avenue and 109 Street' in KML with 100.000000 match.
+*** No match found for database entry 'Walterdale Hill North of  91 Avenue' in KML.
+* Matched ' 23 Avenue West of Calgary Trail' in database -> '23 Avenue Westbound and Calgary Trail' in KML with 100.000000 match.
+* Matched ' 19 Avenue West of Parsons Road ' in database -> '19 Avenue and Parsons Road' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of  17 Street' in database -> '23 Avenue and  17 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of  72 Street' in database -> '23 Avenue and  72 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of  99 Street' in database -> '23 Avenue and  99 Street' in KML with 100.000000 match.
+* Matched ' 23 Avenue West of 215 Street' in database -> '23 Avenue and 215 Street' in KML with 100.000000 match.
+* Matched ' 12 Avenue West of 111 Street' in database -> '12 Avenue and 111 Street' in KML with 100.000000 match.
+* Matched ' 28 Avenue West of 119 Street' in database -> '28 Avenue and 119 Street' in KML with 100.000000 match.
+* Matched '34 Avenue West of  34 Street' in database -> '34 Avenue and  34 Street' in KML with 100.000000 match.
+* Matched '34 Avenue West of 106 Street' in database -> '34 Avenue and 106 Street' in KML with 100.000000 match.
+* Matched ' 38 Avenue West of  34 Street' in database -> '38 Avenue and  34 Street' in KML with 100.000000 match.
+* Matched ' 38 Avenue West of  31 Street' in database -> '38 Avenue and  31 Street' in KML with 100.000000 match.
+* Matched ' 38 Avenue West of Millbourne Road East' in database -> '38 Avenue and Millbourne Road East' in KML with 100.000000 match.
+* Matched ' 50 Street SW North of Ellerslie Road SW' in database -> 'Ellerslie Road SW and  50 Street SW' in KML with 100.000000 match.
+* Matched ' 51 Avenue West of 107 Street' in database -> '51 Avenue and 107 Street' in KML with 100.000000 match.
+* Matched '63 Avenue West of  91 Street' in database -> '63 Avenue and  91 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 66 Street SW North of Ellerslie Road SW' in KML.
+* Matched ' 68 Avenue  West of 104 Street' in database -> '68 Avenue and 104 Street' in KML with 100.000000 match.
+* Matched ' 69 Avenue West of 172 Street' in database -> '69 Avenue and 172 Street' in KML with 100.000000 match.
+* Matched ' 76 Avenue West of  50 Street ' in database -> '76 Avenue and  50 Street' in KML with 100.000000 match.
+* Matched ' 76 Avenue West of 104 Street' in database -> '76 Avenue and 104 Street' in KML with 100.000000 match.
+* Matched ' 80 Avenue West of Gateway Boulevard' in database -> '80 Avenue and Gateway Boulevard' in KML with 100.000000 match.
+* Matched ' 87 Avenue West of 109 Street' in database -> '87 Avenue and 109 Street' in KML with 100.000000 match.
+* Matched ' 87 Avenue West of 163 Street' in database -> '87 Avenue and 163 Street' in KML with 100.000000 match.
+* Matched ' 87 Avenue West of 189 Street' in database -> '87 Avenue and 189 Street' in KML with 100.000000 match.
+*** No match found for database entry ' 91 Street SW North of Ellerslie Road SW' in KML.
+* Matched ' 95 Avenue West of 170 Street' in database -> '95 Avenue and 170 Street' in KML with 100.000000 match.
+* Matched '100 Avenue West of 178 Street' in database -> '100 Avenue and 178 Street' in KML with 100.000000 match.
+* Matched '104 Avenue West of 105 Street' in database -> '104 Avenue and 105 Street' in KML with 100.000000 match.
+*** No match found for database entry '215 Street North of Whitemud Drive' in KML.
+* Matched ' 28 Avenue West of Lakewood Road West' in database -> '28 Avenue and Lakewood Road West' in KML with 100.000000 match.
+* Matched ' 53 Avenue West of Whitemud Drive Southbound' in database -> '53 Avenue and Whitemud Drive Southbound' in KML with 100.000000 match.
