@@ -31,6 +31,12 @@ You can also explore the data via phpPgAdmin:
     * SBD - South Bound  
 * count : The number of vechicles that were recorded during the 1 hour period.
 
+## Useful Views
+The following views may be helpful:
+
+**all_sites** - Returns all the site locations with the co-ordinates formatted in a 'latitude,longitude' format. Useful if you want to plug the co-ordinates into Google Maps.  
+**all_sites_coords** - Returns all the site locations with separate columns for latitude and longitude along with some other metadata describing the site monitoring locations.  
+
 ### Disclaimer
 The data has been gathered from a variety sources. The some of the sources used to create this database are known  
 to have data integrity problems. Some of the co-ordinates for the site monitoring locations have been matched from an
