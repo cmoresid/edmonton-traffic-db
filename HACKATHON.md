@@ -1,13 +1,13 @@
 # Hosted Edmonton Traffic DB
 Currently, the data can be accessed from an Amazon EC2 instance. Here is the connection information:
 
-**Host** - ...  
-**Port** - ...   
-**User Name** - ...   
-**Password** - ... 
+**Host** - ec2-52-0-53-5.compute-1.amazonaws.com  
+**Port** - 5432   
+**User Name** - gisdb_user   
+**Password** - XAAz64TtYc 
 
 You can also explore the data via phpPgAdmin:  
-......
+http://ec2-52-0-53-5.compute-1.amazonaws.com/phpPgAdmin/
 
 ##Main Table Structure  
 **Site Table**  
