@@ -91,12 +91,12 @@ def match_from_kml():
 def normalize_address(entry):
 	address_regex = re.compile(r'(?P<addr>\d{1,3}[a-z]? (?:street|avenue)(?: nw| sw)?)')
 
-	return ' '.join(sanatize_entry(entry, address_regex))
+	return ' and '.join(sanatize_entry(entry, address_regex))
 
 def sanatize_entry(entry, regex):
 	entry = re.sub(r'( north | west | east | south | northbound | southbound | eastbound | westbound |of|and)', '', entry.lower())
 	entry = filter(lambda x: len(x) > 0, re.sub(r'\s+', ' ', entry))
-
+`
 	matches = regex.finditer(entry)
 
 	tokens = []

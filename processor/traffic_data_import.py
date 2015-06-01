@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from traffic_data_processor import TrafficDataProcessor
+from processor.traffic_data_processor import TrafficDataProcessor
 from config import settings
 
 from model.base import Base
@@ -10,6 +10,9 @@ from model.traffic_event import TrafficEvent
 import os, sqlalchemy
 
 class TrafficDataDBImport():
+    def __init__(self):
+        self._processor = TrafficDataProcessor()
+
     """Orchestration class used to create and insert database records
     based on the in-memory representation of the traffic events and
     sites extracted from the traffic report spreadsheets.
@@ -33,7 +36,7 @@ class TrafficDataDBImport():
         # Create an in-memory representation of the traffic events
         # and sites from the 
         processor = TrafficDataProcessor()
-        traffic_events = processor.process_data_files(file_names)
+        traffic_events = self._processor.process_data_files(file_names)
 
         session_import = session()
         log_file = open('error_log.txt', 'w+')
@@ -62,3 +65,37 @@ class TrafficDataDBImport():
                 session_import.rollback()
 
         log_file.close()
+
+    def traffic_metadata_import(self, metadata_sheet_file_name):
+        engine = create_engine(settings['db_connection'])
+        session = sessionmaker()
+        session.configure(bind=engine)
+        Base.metadata.create_all(engine)
+        session_q = session()
+
+        site_metadata = self._processor.process_metadata_file(metadata_sheet_file_name)
+
+        for metadata_site in site_metadata:
+            site = session_q.query(Site).filter(Site.site_id == metadata_site.site_id).first()
+
+            if (site == None):
+                continue
+
+            site = self.__map(metadata_site, site)
+            session_q.merge(site)
+
+            try:
+                session_q.commit()
+            except:
+                print 'EXCEPTION: %s' % (ex.message)
+                session_q.rollback()
+
+    def __map(self, metadata_site, db_site):
+        db_site.street_type = metadata_site.street_type
+        db_site.category = metadata_site.category
+        db_site.in_service = metadata_site.in_service
+        db_site.county = metadata_site.county
+        db_site.jurisdiction = metadata_site.jurisdiction
+        db_site.primary_purpose = metadata_site.primary_purpose
+
+        return db_site

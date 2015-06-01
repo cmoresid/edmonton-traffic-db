@@ -59,6 +59,39 @@ class TrafficDataProcessor():
         # the spreadsheets specified by the file_names parameter.
         return chain.from_iterable(map(self._process_data_file, file_names))
     
+    def process_metadata_file(self, metadata_sheet_file_name):
+        spreadsheet_file = open_workbook(metadata_sheet_file_name)
+        sheet = spreadsheet_file.sheet_by_name('Sheet1')
+
+        nrows = sheet.nrows
+        site_metadata = []
+
+        for index in range(1, nrows):
+            site_num = sheet.cell(index, 0).value
+
+            if type(site_num) == float:
+                site_num = str(int(site_num))
+
+            site = Site(site_id=site_num, \
+                street_type=sheet.cell(index, 2).value, \
+                category=sheet.cell(index, 5).value, \
+                in_service= self.__parse_date(sheet.cell(index, 17).value), \
+                county=sheet.cell(index, 9).value, \
+                jurisdiction=sheet.cell(index, 19).value, \
+                primary_purpose=sheet.cell(index, 29).value)
+
+            site_metadata.append(site)
+
+        return site_metadata
+
+    def __parse_date(self, date_value):
+        if (date_value == u''):
+            return None
+
+        date_components = [int(i) for i in date_value.split('/')]
+
+        return datetime(date_components[2], date_components[0], date_components[1])
+
     def _process_data_file(self, file_name):
         """Extracts traffic event information from the specified spreadsheet
         and creates an in-memory representation of the traffic events and

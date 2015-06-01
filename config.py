@@ -1,5 +1,5 @@
 settings = { \
-    'db_connection': 'postgresql://localhost/traffic',
+    'db_connection': 'postgresql://gisdb_user:XAAz64TtYc@ec2-52-0-53-5.compute-1.amazonaws.com/traffic',
     'gdrive_api_version': 'v2',
     'verbose': True,
     'edmonton-data-folder-ids': { \
@@ -29,5 +29,33 @@ settings = { \
     	'A to F'    : '0B35cJTkjHnLNZWNlMWM1OWUtNjMzOS00MDVkLTlmOTAtNWM1YzljYWM4NWI3',
     	'G to O'    : '0B35cJTkjHnLNODhlNWIwZGItYTk5My00OTM0LWE2NzctNzk5OTNkMGZmNzEw',
     	'P to Z'    : '0B35cJTkjHnLNYzc2YzhkODUtZGQyNC00MjhlLTljZjctNjAxZDg1ZTAzNTBl' 
+    },
+    'edmonton-data-intersection-folder-ids': { \
+        '001 to 010': '0B35cJTkjHnLNMTc3ZjBkNzAtNzFhOS00NjhlLWIwNGMtMjRhYWQ4NjcxOTcy',
+        '011 to 020': '0B35cJTkjHnLNYjQ0ZGUzYmUtYTVhYS00OWU5LWE2ZGUtYTE5ZjQ4ODNiMDk0',
+        '021 to 030': '0B35cJTkjHnLNYjk0MTY2NzItZWM4Yi00ZDVlLTgyYmUtNjdjODM4ODY1ZGYy',
+        '031 to 040': '0B35cJTkjHnLNM2VhNGE4NTMtYTkyMS00MTkzLWFmZmMtZjc4ZGExZDI3ZGJh',
+        '041 to 050': '0B35cJTkjHnLNYjQzYmRjODMtNTg1ZS00MzRlLWJlNDItZmZiY2U4Y2E3Njk5',
+        '051 to 060': '0B35cJTkjHnLNMzA4N2I1MTgtN2UzOC00MDkzLTgwODQtYmY5OWM5MjM5ZjAw',
+        '061 to 070': '0B35cJTkjHnLNOGJmNDdkY2QtMjdmNS00NTVkLWFkMDYtYTJkZjViZTU4ZDFh',
+        '071 to 080': '0B35cJTkjHnLNYzYzMDFjZjAtOWY3ZC00NTViLWIyNWQtMTc3MGY2M2U3Mjdm',
+        '081 to 090': '0B35cJTkjHnLNYWMyNzEyNjItNjI3NS00OWE5LTk2MjMtNDJmZmNhMzE2NWQ3',
+        '091 to 100': '0B35cJTkjHnLNMjQ3ODk3ODEtNjU2MS00MzVjLWFhYjMtMDMyZjMyY2NmYTdm',
+        '101 to 110': '0B35cJTkjHnLNYTc2Zjk1NzgtZDA1MC00NmVhLWI0ZTQtMWVjNzA2ZWUyYTA3',
+        '111 to 120': '0B35cJTkjHnLNOTYwNDcxOTYtNjdkYy00OTAzLWJmNTgtNTBmYTViYmFhYzAy',
+        '121 to 130': '0B35cJTkjHnLNOWU5YzI1ZmUtMzAyZS00NWQ3LTk4MmUtZTg3YTYyNTJhMTNj',
+        '131 to 140': '0B35cJTkjHnLNOWU2MjZhOGMtMzFjMC00YmU5LThlYWYtODQ4MjhjNTAzMDUw',
+        '141 to 150': '0B35cJTkjHnLNZDMxYTg2ZTgtMzg2YS00NTEyLWI2ZGUtZTM3ODVhNWM2NDMx',
+        '151 to 160': '0B35cJTkjHnLNOGRiMTEyMDktNjg5MS00YmNlLTgwZTgtMWExOGE0MTFlYmZj',
+        '161 to 170': '0B35cJTkjHnLNNmM2YjdmYTEtYWEyMS00MjRiLTg0MDktNzI3YmM4ZGFlOTVk',
+        '171 to 180': '0B35cJTkjHnLNYjRkNjZmNDQtZTMyOS00ZGM3LTk3NTctMzM3NTA2MTI1Y2Yy',
+        '181 to 190': '0B35cJTkjHnLNNWRiOThiOTYtOWI0My00MTM0LWI0MjItMTQ0YWU1YjE5MjYy',
+        '191 to 200': '0B35cJTkjHnLNM2MxODg5MzAtOTcxMS00MWZlLWE4NmYtNmNjMDkzNmI3MWZm',
+        '201 to 210': '0B35cJTkjHnLNMzRiNTE0M2ItMTAyNy00ZTA5LWJlYjEtZjUwOTMyOWYyNTNh',
+        '211 to 220': '0B35cJTkjHnLNMTA5MDMwMTktZjMwYi00YzhiLTljZGYtNTRhZmM5NmU5Mzk3',
+        '221 to 231': '0B35cJTkjHnLNNWY5NDdiNDgtNTQ5Yi00MTRiLWIzN2QtNTMyOGVhNDc0OTA2',
+        'A to F'    : '0B35cJTkjHnLNNDFhZGIzMDktYWQwNi00Y2Q1LWJmNDUtNDU3ZTI5M2YxMjkz',
+        'G to O'    : '0B35cJTkjHnLNMTRjZTE5MWUtMzg3YS00ZWRjLTllOTUtYjBkY2ZjYjVhMjNh',
+        'P to Z'    : '0B35cJTkjHnLNNGYwN2QwZTctYWZhYy00M2Y0LTkyZmMtNjM4YTZlMmIxODU4',
     }
 }

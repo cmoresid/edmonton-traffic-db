@@ -55,7 +55,7 @@ class CommandLineMain():
 		downloader = GDriveDownloader(output_dir=output_folder)
 
 		results = map(downloader.download_files_in_folder, \
-			config.settings['edmonton-data-folder-ids'].values())
+			config.settings['edmonton-data-intersection-folder-ids'].values())
 
 
 	def download_folder(self, folder_id, output_folder):
